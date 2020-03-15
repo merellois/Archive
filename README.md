@@ -1,35 +1,5 @@
 # IMD
 
-Research, design and develop long-term archival approaches for a single cultural commodity. 
-
-Film: *Into Eternity* Nuclair waste, hoe kan je mensen in de toekomst duidelijk maken dat ze in bepaalde gebieden niet kunnen komen, omdat er een hoog aantal radiation in de lucht zit = hoe communiceer je met de toekomst
-
-**Archive**: 
-
-- Hoe word het opgeslagen
-- Storytelling, hoe word dit vertaald in de future.
-- How do people classify there objects, wich words are they linking to the project
-
-*Film*
-
-*photography: Familie albums*
-
-Digitalising books, posters or other printed matter : video platform
-
-- Cultural Heritage Waar horen de orginele producten, wie claimed het. Linkt terug aan gebeurtenissen in de geschiedenis: WOII en kolonisatie
-
-    *"Nostalgia.. is essentially history without guilt. Heritage is something that suffuses us with pride rather than shame."*   Micheal Kammen
-
-[Friendly dictators](https://www.notion.so/Friendly-dictators-8931538f8e7c4480a777700f50300965)
-
-### Search Term:
-
-Familie : materiaalsoort = album
-
-[https://www.youtube.com/watch?v=bnPGyFxJUe0](https://www.youtube.com/watch?v=bnPGyFxJUe0)
-
-Wings (1927) Directed by William A Wellman - Cafe de Paris
-
 ### Sound of war
 
 ![IMD/Good_morning_vietnam.jpg](IMD/Good_morning_vietnam.jpg)
@@ -242,4 +212,4 @@ Cami : Argentina
 
 What i do where = in cinema 4d, laat ik dit en dit zien...
 
-![IMD/Good_morning_vietnam%201.jpg](IMD/Good_morning_vietnam%201.jpg)
+
