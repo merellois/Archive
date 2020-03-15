@@ -6,6 +6,14 @@ https://www.notion.so/merellois/IMD-c2520b90f8174c89bf8627ac1744e33c
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2ca8a6f9-a684-4258-951b-d2bebc3fa223/Good_morning_vietnam.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2ca8a6f9-a684-4258-951b-d2bebc3fa223/Good_morning_vietnam.jpg)
 
+### How to document a war
+
+Claude Johner (Photographer) and assistant Janine Antoine made a textual resource in historical production from 1968 to 1972 in Vietnam : the ravages of war
+
+[Good Morning, Vietnam](https://folkways.si.edu/good-morning-vietnam/american-history-documentary-world-history/album/smithsonian)
+
+
+
 **Feedback Hannes:**
 
 : Urgency for this work
@@ -14,11 +22,6 @@ https://www.notion.so/merellois/IMD-c2520b90f8174c89bf8627ac1744e33c
 
 - Video gaming and war
 
-[Good Morning, Vietnam](https://folkways.si.edu/good-morning-vietnam/american-history-documentary-world-history/album/smithsonian)
-
-### How to document a war
-
-Claude Johner (Photographer) and assistant Janine Antoine made a textual resource in historical production from 1968 to 1972 in Vietnam : the ravages of war
 
 # Inspiration
 
@@ -65,13 +68,13 @@ Shortly before an election, a spin-doctor and a Hollywood producer join efforts 
 
 [World War One Trench Warfare](https://owlcation.com/humanities/World_War_1_Trench_Warfare)
 
-R**oll of media in war**
+**Roll of media in war**
 
 censorship
 
 self made material : Iraq wars
 
-## What to do?
+### What to do?
 
 - record recording
     - [x]  Listing exercise with record : with visuals they think of
