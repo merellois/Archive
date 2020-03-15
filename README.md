@@ -12,8 +12,6 @@ Claude Johner (Photographer) and assistant Janine Antoine made a textual resourc
 
 [Good Morning, Vietnam](https://folkways.si.edu/good-morning-vietnam/american-history-documentary-world-history/album/smithsonian)
 
-
-
 **Feedback Hannes:**
 
 : Urgency for this work
