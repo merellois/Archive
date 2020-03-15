@@ -1,8 +1,12 @@
 # IMD
 
+https://www.notion.so/merellois/IMD-c2520b90f8174c89bf8627ac1744e33c
+
+
 ### Sound of war
 
 ![IMD/Good_morning_vietnam.jpg](IMD/Good_morning_vietnam.jpg)
+
 
 **Feedback Hannes:**
 
@@ -14,15 +18,18 @@
 
 [Good Morning, Vietnam](https://folkways.si.edu/good-morning-vietnam/american-history-documentary-world-history/album/smithsonian)
 
+
 ### How to document a war
 
 Claude Johner (Photographer) and assistant Janine Antoine made a textual resource in historical production from 1968 to 1972 in Vietnam : the ravages of war
 
 [What does war sound like now?](https://www.bbc.com/news/magazine-20400030)
 
+
 **Bringing the war home : Video games**
 
 [Even Realistic Videogames like Call of Duty Won't Help Us Win Wars](https://www.wired.com/story/even-realistic-videogames-like-call-of-duty-wont-help-us-win-wars/)
+
 
 ### Inspiratie bronnen
 
@@ -52,6 +59,7 @@ Tijdens zijn tocht, door de jungle van Vietnam en Cambodja over de (fictieve) Nu
 - Lauren Alexander : migrate draw your house
 
     [GROUNDPLAN DRAWINGS - Foundland Collective](http://foundland.info/GROUNDPLAN-DRAWINGS)
+    
 
 - Wag the dog : movie comedy
 
@@ -65,7 +73,7 @@ Shortly before an election, a spin-doctor and a Hollywood producer join efforts 
 
 [World War One Trench Warfare](https://owlcation.com/humanities/World_War_1_Trench_Warfare)
 
-R**oll of media in war**
+**Roll of media in war**
 
 censorship
 
