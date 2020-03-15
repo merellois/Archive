@@ -1,6 +1,34 @@
-# Archive
-
 # IMD
+
+Research, design and develop long-term archival approaches for a single cultural commodity. 
+
+Film: *Into Eternity* Nuclair waste, hoe kan je mensen in de toekomst duidelijk maken dat ze in bepaalde gebieden niet kunnen komen, omdat er een hoog aantal radiation in de lucht zit = hoe communiceer je met de toekomst
+
+**Archive**: 
+
+- Hoe word het opgeslagen
+- Storytelling, hoe word dit vertaald in de future.
+- How do people classify there objects, wich words are they linking to the project
+
+*Film*
+
+*photography: Familie albums*
+
+Digitalising books, posters or other printed matter : video platform
+
+- Cultural Heritage Waar horen de orginele producten, wie claimed het. Linkt terug aan gebeurtenissen in de geschiedenis: WOII en kolonisatie
+
+    *"Nostalgia.. is essentially history without guilt. Heritage is something that suffuses us with pride rather than shame."*   Micheal Kammen
+
+[Friendly dictators](https://www.notion.so/Friendly-dictators-8931538f8e7c4480a777700f50300965)
+
+### Search Term:
+
+Familie : materiaalsoort = album
+
+[https://www.youtube.com/watch?v=bnPGyFxJUe0](https://www.youtube.com/watch?v=bnPGyFxJUe0)
+
+Wings (1927) Directed by William A Wellman - Cafe de Paris
 
 ### Sound of war
 
@@ -33,8 +61,6 @@ Claude Johner (Photographer) and assistant Janine Antoine made a textual resourc
 [Fury as Facebook bans 'Napalm girl' image](https://www.bbc.com/news/technology-37318031)
 
 [WPPH](https://janrosseel.com/archive%2Fwpph)
-
-
 
 Has since been used on various occasions to illustrate the horrors of modern warfare. But for Facebook, the image of the girl, Phan Thi Kim Phuc, was one that violated its standards about nudity on the social network.
 
@@ -102,11 +128,11 @@ The roll of visuals
 
 - Interactive soundscape
 - Making mix's of the founded sounds : Synthesizer
--
+- 
 
 **Tools**
 
-Unitity
+Unitity 
 
 Cinema4D
 
@@ -166,7 +192,7 @@ Agata : Poland
 
 Sahista : Suriname / non-Kabk
 
-Track 4 - 5 - 10
+Track 4 - 5 - 10 
 
 Ruben : The Netherlands / Gamer / non-kabk
 
@@ -184,7 +210,7 @@ Cami : Argentina
 
 - Transcode the script
 
-    Digitial format / screenbased
+    Digitial format / screenbased 
 
     With what tool do I translate the script
 
@@ -208,10 +234,12 @@ Cami : Argentina
 
 **Giving shape to the research : what i want to visualise**
 
-**Research questions**
+**Research questions** 
 
 **[Markdown](https://www.markdownguide.org/basic-syntax) :**
 
 **How do i do the documentation : info architecture / clear structure**
 
 What i do where = in cinema 4d, laat ik dit en dit zien...
+
+![IMD/Good_morning_vietnam%201.jpg](IMD/Good_morning_vietnam%201.jpg)
