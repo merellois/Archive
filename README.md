@@ -10,7 +10,7 @@ https://www.notion.so/merellois/IMD-c2520b90f8174c89bf8627ac1744e33c
 
 Claude Johner (Photographer) and assistant Janine Antoine made a textual resource in historical production from 1968 to 1972 in Vietnam : the ravages of war
 
-[Good Morning, Vietnam](https://folkways.si.edu/good-morning-vietnam/american-history-documentary-world-history/album/smithsonian)
+[Good Morning, Vietnam : article ](https://folkways.si.edu/good-morning-vietnam/american-history-documentary-world-history/album/smithsonian)
 
 **Feedback Hannes:**
 
@@ -31,7 +31,7 @@ Claude Johner (Photographer) and assistant Janine Antoine made a textual resourc
 
 [Fury as Facebook bans 'Napalm girl' image](https://www.bbc.com/news/technology-37318031)
 
-[WPPH](https://janrosseel.com/archive%2Fwpph)
+[JAN ROSSEEL - WPPH](https://janrosseel.com/archive%2Fwpph)
 
 Has since been used on various occasions to illustrate the horrors of modern warfare. But for Facebook, the image of the girl, Phan Thi Kim Phuc, was one that violated its standards about nudity on the social network.
 
@@ -40,7 +40,7 @@ scheidsrechter van massamedia*
 
 - Apocalypse Now
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d8902e3-3f57-41b0-8181-a9d81dac6da1/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d8902e3-3f57-41b0-8181-a9d81dac6da1/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID.jpg)
+![IMD/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID](IMD/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png)
 
