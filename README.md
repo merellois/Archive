@@ -162,8 +162,6 @@ Soyun : South Korea
 
 Rob : The Netherlands / 70 years
 
-![IMD/6.mp4](IMD/6.mp4)
-
 Track 1 - 3 - 8
 
 Agata : Poland
