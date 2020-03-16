@@ -40,7 +40,7 @@ scheidsrechter van massamedia*
 
 - Apocalypse Now
 
-![IMD/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID](IMD/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID)
+![IMD/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID.jpg](IMD/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID.jpg)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png)
 
