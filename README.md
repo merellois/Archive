@@ -4,7 +4,7 @@ https://www.notion.so/merellois/IMD-c2520b90f8174c89bf8627ac1744e33c
 
 # Sound of war
 
-!(/Github/IMD/Good morning vietnam.jpg)
+!(https://raw.githubusercontent.com/merellois/Archive/master/1428520450_plutovstvo-1997-3.jpg)
 
 ### How to document a war
 
