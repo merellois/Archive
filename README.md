@@ -41,6 +41,6 @@ Made by Claude Johner (Photographer) and assistant Janine Antoine from 1968 to 1
   
 - **The Stench of World War I by Sissel Tolaas**
 
-  (IMD/smell.jpg)
+  !(IMD/smell.jpg)
 
 
