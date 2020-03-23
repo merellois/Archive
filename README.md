@@ -11,7 +11,7 @@
 Made by Claude Johner (Photographer) and assistant Janine Antoine from 1968 to 1972 in Vietnam : <em>the ravages of war</em>
 
 
-# Project Result/Goal
+## PROJECT GOAL
 
 I want to use the Vietnam war as an example to show that the wars through time haven't change in form / outcome / reason. 
 I'm portraying the uselessness of the wars through the function of the media during wartime. The media stands inbetween the civilians and the soldiers and is thereby the communication tool to keep both sides informed.
