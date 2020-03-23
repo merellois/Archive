@@ -1,6 +1,6 @@
 # Sound of war
 
-## Artifact 
+## ARTIFACT 
 
 ### Goodmorning Vietnam + Script
 
@@ -17,7 +17,7 @@ I want to use the Vietnam war as an example to show that the wars through time h
 I'm portraying the uselessness of the wars through the function of the media during wartime. The media stands inbetween the civilians and the soldiers and is thereby the communication tool to keep both sides informed.
 
 
-## Transcoding
+## TRANSCODING
 
 ### *Transcoding 1* : Script of the script
 
@@ -54,7 +54,7 @@ https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be
 https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
 
 
-## Inspiration
+## INSPIRATION
 
 - **Video games** : bringing the war home 
 
