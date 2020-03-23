@@ -23,11 +23,7 @@ Made by Claude Johner (Photographer) and assistant Janine Antoine from 1968 to 1
 
 - **Apocalypse Now**
 
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d8902e3-3f57-41b0-8181-a9d81dac6da1/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID.jpg](IMD/image_12303185.jpg)
-
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/Traack1_1.30.png)
-
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cb8cdb2-90d4-4710-9e11-e475848677e8/image_12303185.jpg](IMD/d932c88f-6183-4719-9c18-16b17208fab1-XXX_E0_APOCALYPSE_DVD_26_VID.jpg)
 
 - **Lauren Alexander : migrate draw your house**
 
@@ -41,7 +37,10 @@ Made by Claude Johner (Photographer) and assistant Janine Antoine from 1968 to 1
   
 - **"Playing Metal Gear Solid V: The Phantom Pain"**
 
-[Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
+  [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
+  
+- **The Stench of World War I by Sissel Tolaas**
 
+  (IMD/smell.jpg)
 
 
