@@ -10,6 +10,7 @@ Made by Claude Johner (Photographer) and assistant Janine Antoine from 1968 to 1
 
 ## Inspiration
 
-- **Bringing the war home : Video games** 
-  [Even Realistic Videogames like Call of Duty Won't Help Us Win Wars](https://www.wired.com/story/even-realistic-videogames-like-call-of-duty-wont-help-us-win-wars/)
+- **Video games** Bringing the war home 
+
+[Even Realistic Videogames like Call of Duty Won't Help Us Win Wars](https://www.wired.com/story/even-realistic-videogames-like-call-of-duty-wont-help-us-win-wars/)
 
