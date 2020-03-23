@@ -215,11 +215,11 @@ Cami : Argentina
     
     Conflict in Vietnam gameplay (PC Game, 1986)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e307917-f52a-4873-a46a-49efb687e735/maxresdefault.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e307917-f52a-4873-a46a-49efb687e735/maxresdefault.jpg)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e307917-f52a-4873-a46a-49efb687e735/maxresdefault.jpg](IMD/maxresdefault.jpg)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ae91bdb-96f6-4e63-aeea-a53153dd63fe/conflict-in-vietnam_3.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ae91bdb-96f6-4e63-aeea-a53153dd63fe/conflict-in-vietnam_3.gif)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ae91bdb-96f6-4e63-aeea-a53153dd63fe/conflict-in-vietnam_3.gif](IMD/conflict-in-vietnam_4.gif)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e823d42-f68b-4c70-9b8b-59aa11656a4a/conflict-in-vietnam_4.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e823d42-f68b-4c70-9b8b-59aa11656a4a/conflict-in-vietnam_4.gif)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e823d42-f68b-4c70-9b8b-59aa11656a4a/conflict-in-vietnam_4.gif](IMD/conflict-in-vietnam_3.gif)
 
 [Conflict: Vietnam (2004) download PC](https://www.squakenet.com/download/conflict-vietnam-2004/14937/)
 
@@ -272,9 +272,9 @@ lp neil jong
 
     **Life The 60's** : *A war with two battlefronts, one in Asia, one on America's campuses*
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5e5fa0-1e36-41cc-a190-d55077bcfccd/90398235_2729195900512750_1141381060626481152_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5e5fa0-1e36-41cc-a190-d55077bcfccd/90398235_2729195900512750_1141381060626481152_n.jpg)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5e5fa0-1e36-41cc-a190-d55077bcfccd/90398235_2729195900512750_1141381060626481152_n.jpg](IMD/60.jpg)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](IMD/601.jpg)
 
 beeldvorming van toen overgedragen naar nu
 
