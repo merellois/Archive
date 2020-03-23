@@ -10,7 +10,14 @@ Made by Claude Johner (Photographer) and assistant Janine Antoine from 1968 to 1
 
 ## Inspiration
 
-- **Video games** Bringing the war home 
+- **Video games** : bringing the war home 
 
-[Even Realistic Videogames like Call of Duty Won't Help Us Win Wars](https://www.wired.com/story/even-realistic-videogames-like-call-of-duty-wont-help-us-win-wars/)
+- "Napalm girl" : Facebook censoring
+
+[Fury as Facebook bans 'Napalm girl' image](https://www.bbc.com/news/technology-37318031)
+
+[WPPH](https://janrosseel.com/archive%2Fwpph)
+
+<em>Has since been used on various occasions to illustrate the horrors of modern warfare. But for Facebook, the image of the girl, Phan Thi Kim Phuc, was one that violated its standards about nudity on the social network.</em>
+
 
