@@ -212,6 +212,16 @@ Cami : Argentina
     **Indie gaming** = function of games
 
     [](https://www.indiegamewebsite.com)
+    
+    Conflict in Vietnam gameplay (PC Game, 1986)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e307917-f52a-4873-a46a-49efb687e735/maxresdefault.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e307917-f52a-4873-a46a-49efb687e735/maxresdefault.jpg)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ae91bdb-96f6-4e63-aeea-a53153dd63fe/conflict-in-vietnam_3.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ae91bdb-96f6-4e63-aeea-a53153dd63fe/conflict-in-vietnam_3.gif)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e823d42-f68b-4c70-9b8b-59aa11656a4a/conflict-in-vietnam_4.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e823d42-f68b-4c70-9b8b-59aa11656a4a/conflict-in-vietnam_4.gif)
+
+[Conflict: Vietnam (2004) download PC](https://www.squakenet.com/download/conflict-vietnam-2004/14937/)
 
 - How people reacte while  playing video games
 
@@ -226,6 +236,16 @@ Cami : Argentina
 - How can you make people understand a situation if they were never there?
 - How can you let people experience an phenomenon thorugh technology that they never faced in real life?
 - How do people expierence a war? When everybody has an other conecction to it.
+
+- **Vietnam oorlog gebruiken als voorbeeld dat oorlogen door de jaren heen qua vorm niet zijn veranderd. De nutteloosheid van de oorlogen weergeven door de functie die de media heeft tijdens een oorlog. De media staat tussen de burgers en de soldaten in en is het communicatie middel om mensen op de hoogte te houden.**
+
+    **Communication tools**
+
+    → Tv = civilians
+
+    → Radio = soldiers
+
+**Video games** visualising the Vietnam war : the war is over, but in these games you can continue the fight. And for what? You don't learn the impact the war had on millions of people.
 
 1. Script = main source
     - reaction of the script
@@ -246,6 +266,16 @@ media van de oorlog = protest
 
 lp neil jong
 
+- media van de oorlog = protest
+
+    lp neil jong
+
+    **Life The 60's** : *A war with two battlefronts, one in Asia, one on America's campuses*
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5e5fa0-1e36-41cc-a190-d55077bcfccd/90398235_2729195900512750_1141381060626481152_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5e5fa0-1e36-41cc-a190-d55077bcfccd/90398235_2729195900512750_1141381060626481152_n.jpg)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg)
+
 beeldvorming van toen overgedragen naar nu
 
 hoe word een oorlog herrinderd
@@ -259,3 +289,39 @@ Unity: elementen waarmee ik het landschap ga bouwen - excersise
 Het probleem dat door mensen beren dood gaan - visualiseren door het gebied weer te geven en jou de mens laat te zijn maar de stem van de beer te horen
 
 - interactive game + luitsteren = ondersteund elkaar om het verhaal duidelijk over te brengen
+
+Color → **rood / blauw** → Apocolypse Now : drawing style
+
+- **1 doming style** for all the different visualisations
+
+[https://www.youtube.com/watch?v=uskvQevr42E](https://www.youtube.com/watch?v=uskvQevr42E)
+
+Eerste ****televisieoorlog : veel protesten
+
+[https://www.youtube.com/watch?v=cvbEhBKUdTQ](https://www.youtube.com/watch?v=cvbEhBKUdTQ)
+
+[https://www.youtube.com/watch?v=arfMd_ar91o](https://www.youtube.com/watch?v=arfMd_ar91o)
+
+Ken Burns : The Vietnam War
+
+War primer : Bertold Brecht
+
+[](https://vubis.kabk.nl/kabkweb/List.csp?SearchT1=war+primer&Index1=Index19&Database=2&Language=NoPreference&PublicationType=NoPreference&Year1=&Year2=&SearchMethod=Browse_1&SearchTerm1=war+primer&OpacLanguage=dut&Profile=Default&EncodedRequest=Q*2E*87*5B*BD*A8*F4Y*D52O*7B*5CxN*A3&EncodedQuery=Q*2E*87*5B*BD*A8*F4Y*D52O*7B*5CxN*A3&Source=SysQR&PageType=Start&PreviousList=Level2&WebPageNr=1&NumberToRetrieve=50&WebAction=NewSearch&StartValue=0&RowRepeat=0&ExtraInfo=&SortIndex=Title&SortDirection=1&Resource=&SavingIndicator=&RestrType=&RestrTerms=&RestrShowAll=&LinkToIndex=)
+
+Archive of the conflict : Broomberg and shanarn
+
+How to represent one aspect out of a historic event
+
+[Archive of Modern Conflict - Photobooks and artist's books](https://archiveofmodernconflict.com)
+
+[S2E10: New Media, Old Story](https://open.spotify.com/episode/13qZJ2Z85SLCU6WUMvDqJG?si=JLbL8l1MTKG6xYZEBN5-Hg)
+
+**Next Step**
+
+→ Narritive + Storyboard
+
+Interactive experiance
+
+After you been through it, you see something in a other day light : confronted by a problem
+
+Video + self "controle" game throuh landscape (coding)
