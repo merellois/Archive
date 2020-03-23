@@ -19,7 +19,7 @@ I'm portraying the uselessness of the wars through the function of the media dur
 
 ## Transcoding
 
-###Transcoding 1 : Script of the script
+### *Transcoding 1* : Script of the script
 
 - **Description** : This script has explanatory information as extra layer next to the original script of the record
 
@@ -30,7 +30,7 @@ I'm portraying the uselessness of the wars through the function of the media dur
 [Script of the script.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/618a6812-87d7-4a31-b5e9-3b86057a215e/Script_of_the_script.pdf)
 
 
-###Transcoding 2 : Listening Excersise
+### *Transcoding 2* : Listening Excersise
 
 - **Description** : I asked six different people with an diversity in background, studie and age to listen to the soundfiles of the record and try to visualise this.
 
@@ -41,7 +41,7 @@ I'm portraying the uselessness of the wars through the function of the media dur
 [Listing excersise.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9958b7-a467-4f61-9290-36d117c6cc83/Listing_excersise.pdf)
 
 
-###Transcoding 3 : Enviroment objects react on sound
+### *Transcoding 3* : Enviroment objects react on sound
 
 - **Description** : I created in Cinema 4D water and trees that move on the sound of the record. I want to create a world were you can walk through. While experiencing the world around you, you are surrounded by the sounds of the Vietnam war. 
 
