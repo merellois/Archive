@@ -2,11 +2,57 @@
 
 ## Artifact 
 
-### Goodmorning Vietnam
+### Goodmorning Vietnam + Script
 
 ![IMD/Good_morning_vietnam.jpg](IMD/Good_morning_vietnam.jpg)
 
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e180c32-2a62-4dcf-864f-445af3308dc2/goedblz1.jpg](IMD/goedblz1.jpg)
+
 Made by Claude Johner (Photographer) and assistant Janine Antoine from 1968 to 1972 in Vietnam : <em>the ravages of war</em>
+
+
+# Project Result/Goal
+
+I want to use the Vietnam war as an example to show that the wars through time haven't change in form / outcome / reason. 
+I'm portraying the uselessness of the wars through the function of the media during wartime. The media stands inbetween the civilians and the soldiers and is thereby the communication tool to keep both sides informed.
+
+
+## Transcoding
+
+**Transcoding 1** : Script of the script
+
+- *Description* : This script has explanatory information as extra layer next to the original script of the record
+
+- *Tool* : Indesign
+
+- *Outcome* : Printed matter
+
+[Script of the script.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/618a6812-87d7-4a31-b5e9-3b86057a215e/Script_of_the_script.pdf)
+
+
+**Transcoding 2** : Listening Excersise
+
+- *Description* : I asked six different people with an diversity in background, studie and age to listen to the soundfiles of the record and try to visualise this.
+
+- *Tool* : 
+
+- *Outcome* : mp3 + jpg
+
+[Listing excersise.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9958b7-a467-4f61-9290-36d117c6cc83/Listing_excersise.pdf)
+
+
+**Transcoding 3** : Enviroment objects react on sound
+
+- *Description* : I created in Cinema 4D water and trees that move on the sound of the record. I want to create a world were you can walk through. While experiencing the world around you, you are surrounded by the sounds of the Vietnam war. 
+
+- *Tool* : Cinema 4D
+
+- *Outcome* : video
+
+https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be
+
+https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
+
 
 ## Inspiration
 
@@ -41,6 +87,49 @@ Made by Claude Johner (Photographer) and assistant Janine Antoine from 1968 to 1
   
 - **The Stench of World War I by Sissel Tolaas**
 
-  !(IMD/smell.jpg)
+  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76e6f5c8-a5f7-40c6-bab0-20f92b3a4822/smell.jpg](IMD/smell.jpg)
+
+- **Childern play games, playing the war**
+
+  [Francis Alÿs](https://www.eyefilm.nl/en/exhibition/francis-alÿs)
+
+- **Conflict in Vietnam gameplay** (PC Game, 1986)
+
+  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e823d42-f68b-4c70-9b8b-59aa11656a4a/conflict-in-vietnam_4.gif](IMD/conflict-in-vietnam_4.gif)
+  
+- **Life Magazine : The 60's** : 
+  *A war with two battlefronts, one in Asia, one on America's campuses*
+  
+  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5e5fa0-1e36-41cc-a190-d55077bcfccd/90398235_2729195900512750_1141381060626481152_n.jpg](IMD/60.jpg)
+
+  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](IMD/601.jpg)
+  
+- **Bear 71**
+
+  [NFB/Interactive - Bear 71](http://www.bear71.nfb.ca/#/bear71)
+  
+- **War Primer 2** Broomberg and shanarn : Archive of the conflict 
+
+  *How to represent one aspect out of a historic event*
+  
+  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3989fc4e-78f2-48a4-bd08-00488eaaabfc/warprimer.jpg](IMD/warprimer.jpg)
+
+  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87195dfe-d4ec-4560-9dd1-fa8a0035313e/BC_WP2_8-min.jpg](IMD/BC_WP2_8-min.jpg)
+  
+  [Archive of Modern Conflict - Photobooks and artist's books](https://archiveofmodernconflict.com)
+  
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
 
 
