@@ -296,7 +296,7 @@ Color → **rood / blauw** → Apocolypse Now : drawing style
 
 [https://www.youtube.com/watch?v=uskvQevr42E](https://www.youtube.com/watch?v=uskvQevr42E)
 
-Eerste ****televisieoorlog : veel protesten
+Eerste televisieoorlog : veel protesten
 
 [https://www.youtube.com/watch?v=cvbEhBKUdTQ](https://www.youtube.com/watch?v=cvbEhBKUdTQ)
 
