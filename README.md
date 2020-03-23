@@ -19,35 +19,35 @@ I'm portraying the uselessness of the wars through the function of the media dur
 
 ## Transcoding
 
-**Transcoding 1** : Script of the script
+###Transcoding 1 : Script of the script
 
-- *Description* : This script has explanatory information as extra layer next to the original script of the record
+- **Description** : This script has explanatory information as extra layer next to the original script of the record
 
-- *Tool* : Indesign
+- **Tool** : Indesign
 
-- *Outcome* : Printed matter
+- **Outcome** : Printed matter
 
 [Script of the script.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/618a6812-87d7-4a31-b5e9-3b86057a215e/Script_of_the_script.pdf)
 
 
-**Transcoding 2** : Listening Excersise
+###Transcoding 2 : Listening Excersise
 
-- *Description* : I asked six different people with an diversity in background, studie and age to listen to the soundfiles of the record and try to visualise this.
+- **Description** : I asked six different people with an diversity in background, studie and age to listen to the soundfiles of the record and try to visualise this.
 
-- *Tool* : 
+- **Tool** : 
 
-- *Outcome* : mp3 + jpg
+- **Outcome** : mp3 + jpg
 
 [Listing excersise.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9958b7-a467-4f61-9290-36d117c6cc83/Listing_excersise.pdf)
 
 
-**Transcoding 3** : Enviroment objects react on sound
+###Transcoding 3 : Enviroment objects react on sound
 
-- *Description* : I created in Cinema 4D water and trees that move on the sound of the record. I want to create a world were you can walk through. While experiencing the world around you, you are surrounded by the sounds of the Vietnam war. 
+- **Description** : I created in Cinema 4D water and trees that move on the sound of the record. I want to create a world were you can walk through. While experiencing the world around you, you are surrounded by the sounds of the Vietnam war. 
 
-- *Tool* : Cinema 4D
+- **Tool** : Cinema 4D
 
-- *Outcome* : video
+- **Outcome** : video
 
 https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be
 
@@ -112,11 +112,13 @@ https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
 
   *How to represent one aspect out of a historic event*
   
+   [Archive of Modern Conflict - Photobooks and artist's books](https://archiveofmodernconflict.com)
+  
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3989fc4e-78f2-48a4-bd08-00488eaaabfc/warprimer.jpg](IMD/warprimer.jpg)
 
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87195dfe-d4ec-4560-9dd1-fa8a0035313e/BC_WP2_8-min.jpg](IMD/BC_WP2_8-min.jpg)
   
-  [Archive of Modern Conflict - Photobooks and artist's books](https://archiveofmodernconflict.com)
+ 
   
 
 
