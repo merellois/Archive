@@ -62,6 +62,7 @@ https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
 
 - **Outcome** : mp3
 
+https://www.youtube.com/watch?v=gJxc09mGMtE
 
 ---
 
@@ -69,7 +70,6 @@ https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
 
 - **Description** : With this experiment I want to archive from different wars the same sound, to see how it devolops or doesn't change ar all. 
 
-https://www.youtube.com/watch?v=gJxc09mGMtE
 
 ## INSPIRATION
 
