@@ -62,6 +62,13 @@ https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
 
 - **Outcome** : mp3
 
+
+---
+
+### *Transcoding 5* : archive sounds of war
+
+- **Description** : With this experiment I want to archive from different wars the same sound, to see how it devolops or doesn't change ar all. 
+
 https://www.youtube.com/watch?v=gJxc09mGMtE
 
 ## INSPIRATION
