@@ -27,6 +27,8 @@ I'm portraying the uselessness of the wars through the function of the media dur
 
 - **Outcome** : Printed matter
 
+- **Lost in translation** : 
+
 [Script of the script.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/618a6812-87d7-4a31-b5e9-3b86057a215e/Script_of_the_script.pdf)
 
 
@@ -37,6 +39,8 @@ I'm portraying the uselessness of the wars through the function of the media dur
 - **Tool** : 
 
 - **Outcome** : mp3 + jpg
+
+- **Lost in translation** : The sounds are getting out of context, so the meaning changes of the sound files.
 
 [Listing excersise.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9958b7-a467-4f61-9290-36d117c6cc83/Listing_excersise.pdf)
 
@@ -49,12 +53,14 @@ I'm portraying the uselessness of the wars through the function of the media dur
 
 - **Outcome** : mp4
 
+- **Lost in translation** : 
+
 https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be
 
 https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
 
 
-### *Transcoding 4* : Counter reaction on record 
+### *Transcoding 4* : Counter-reaction on record 
 
 - **Description** : With this experiment I want to visualize the prostest against the Vietnam war that was going on in the Vs. To show that there was a war on two battle fronts.
 
@@ -62,13 +68,15 @@ https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
 
 - **Outcome** : mp3
 
+- **Lost in translation** : The narritive that the maker of the record created, I toke apart one of the sound files and made a new narritive togheter with the counter-reaction.
+
 https://www.youtube.com/watch?v=gJxc09mGMtE
 
 ---
 
 ### *Transcoding 5* : archive sounds of war
 
-- **Description** : With this experiment I want to archive from different wars the same sound, to see how it devolops or doesn't change ar all. 
+- **Description** : With this experiment I want to create a library that archives different sounds from war and the counter-reactions on war. 
 
 
 ## INSPIRATION
