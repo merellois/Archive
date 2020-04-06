@@ -71,7 +71,7 @@ https://www.youtube.com/watch?v=gJxc09mGMtE
 
 --*Still in proces*--
 
-### *Transcoding ...* : archive sounds of war
+### *Transcoding ...* : Sound Library 
 
 - **Description** : With this experiment I want to create a library that archives different sounds from war and the counter-reactions on war. 
 
