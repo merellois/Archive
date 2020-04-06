@@ -153,8 +153,8 @@ https://docs.google.com/spreadsheets/d/1PEY84a24MVroX8h2NeJAVdCPRWwuLJ8HOqL3oDlx
 
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87195dfe-d4ec-4560-9dd1-fa8a0035313e/BC_WP2_8-min.jpg](IMD/BC_WP2_8-min.jpg)
   
-- **Death and Digitsl**
-  [Stefan Schafer](http://stefanschafer.net) 
+- **[Stefan Schafer](http://stefanschafer.net) - Death and Digital**
+  
 
 
 
