@@ -26,10 +26,9 @@ I'm portraying the uselessness of the wars through the function of the media dur
 - **Tool** : Indesign
 
 - **Outcome** : Printed matter
+[Script of the script.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/618a6812-87d7-4a31-b5e9-3b86057a215e/Script_of_the_script.pdf)
 
 - **Lost in translation** : 
-
-[Script of the script.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/618a6812-87d7-4a31-b5e9-3b86057a215e/Script_of_the_script.pdf)
 
 
 ### *Transcoding 2* : Listening Excersise
@@ -39,10 +38,9 @@ I'm portraying the uselessness of the wars through the function of the media dur
 - **Tool** : 
 
 - **Outcome** : mp3 + jpg
+[Listing excersise.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9958b7-a467-4f61-9290-36d117c6cc83/Listing_excersise.pdf)
 
 - **Lost in translation** : The sounds are getting out of context, so the meaning changes of the sound files.
-
-[Listing excersise.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9958b7-a467-4f61-9290-36d117c6cc83/Listing_excersise.pdf)
 
 
 ### *Transcoding 3* : Enviroment objects react on sound
@@ -52,12 +50,11 @@ I'm portraying the uselessness of the wars through the function of the media dur
 - **Tool** : Cinema 4D
 
 - **Outcome** : mp4
-
-- **Lost in translation** : 
-
 https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be
 
 https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
+
+- **Lost in translation** : 
 
 
 ### *Transcoding 4* : Counter-reaction on record 
@@ -67,16 +64,29 @@ https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
 - **Tool** : Adobe Audition 
 
 - **Outcome** : mp3
+https://www.youtube.com/watch?v=gJxc09mGMtE
 
 - **Lost in translation** : The narritive that the maker of the record created, I toke apart one of the sound files and made a new narritive togheter with the counter-reaction.
 
-https://www.youtube.com/watch?v=gJxc09mGMtE
 
----
+--*Still in proces*--
 
-### *Transcoding 5* : archive sounds of war
+### *Transcoding ...* : archive sounds of war
 
 - **Description** : With this experiment I want to create a library that archives different sounds from war and the counter-reactions on war. 
+
+https://docs.google.com/spreadsheets/d/1PEY84a24MVroX8h2NeJAVdCPRWwuLJ8HOqL3oDlx_xA/edit#gid=0
+
+
+## FINAL OUTCOME
+
+- **Description** : With the libary of sounds and the visual experiments I create an visual (Interactive) soundscape.
+
+- **Tool** : MAX 8
+
+- **Outcome** :
+
+- **Lost in translation** :
 
 
 ## INSPIRATION
@@ -143,12 +153,8 @@ https://www.youtube.com/watch?v=gJxc09mGMtE
 
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87195dfe-d4ec-4560-9dd1-fa8a0035313e/BC_WP2_8-min.jpg](IMD/BC_WP2_8-min.jpg)
   
- 
-  
-
-
-
-
+- **Death and Digitsl**
+  [Stefan Schafer](http://stefanschafer.net) 
 
 
 
