@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=gJxc09mGMtE
 
 - **Description** : With this experiment I want to create a library that archives different sounds from war and the counter-reactions on war. 
 
-https://docs.google.com/spreadsheets/d/1PEY84a24MVroX8h2NeJAVdCPRWwuLJ8HOqL3oDlx_xA/edit#gid=0
+https://docs.google.com/spreadsheets/d/1PEY84a24MVroX8h2NeJAVdCPRWwuLJ8HOqL3oDlx_xA/edit?usp=sharing
 
 
 ## FINAL OUTCOME
