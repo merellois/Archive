@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=gJxc09mGMtE
 
 - **Lost in translation** : 
 
-[reporters.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9958b7-a467-4f61-9290-36d117c6cc83/Listing_excersise.pdf)
+[reporters.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9958b7-a467-4f61-9290-36d117c6cc83/reporters.pdf)
 
 
 --*Still in proces*--
