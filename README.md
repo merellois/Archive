@@ -155,7 +155,9 @@ https://docs.google.com/spreadsheets/d/1PEY84a24MVroX8h2NeJAVdCPRWwuLJ8HOqL3oDlx
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87195dfe-d4ec-4560-9dd1-fa8a0035313e/BC_WP2_8-min.jpg](IMD/BC_WP2_8-min.jpg)
   
 - **[Stefan Schafer](http://stefanschafer.net) - Death and Digital**
-  
+
+- **The Deer Hunter** 
+   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](IMD/deerhunter.jpg)
 
 
 
