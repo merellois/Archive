@@ -79,9 +79,9 @@ https://www.youtube.com/watch?v=gJxc09mGMtE
 
 - **Lost in translation** : 
 
-![IMD/reporters_Pagina_1.jpg.jpg](IMD/reporters_Pagina_1.jpg.jpg)
+![IMD/reporters_Pagina_1.jpg](IMD/reporters_Pagina_1.jpg)
 
-![IMD/reporters_Pagina_2.jpg.jpg](IMD/reporters_Pagina_2.jpg.jpg)
+![IMD/reporters_Pagina_2.jpg](IMD/reporters_Pagina_2.jpg)
 
 
 --*Still in proces*--
