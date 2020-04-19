@@ -69,6 +69,19 @@ https://www.youtube.com/watch?v=gJxc09mGMtE
 - **Lost in translation** : The narritive that the maker of the record created, I toke apart one of the sound files and made a new narritive togheter with the counter-reaction.
 
 
+### *Transcoding 5* : Photo serie of Vietnam video footage
+
+- **Description** : A structure of images from news reports made during the Vietnam war.
+
+- **Tool** :  
+
+- **Outcome** : 
+
+- **Lost in translation** : 
+
+[reporters.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c9958b7-a467-4f61-9290-36d117c6cc83/Listing_excersise.pdf)
+
+
 --*Still in proces*--
 
 ### *Transcoding ...* : Sound Library 
@@ -80,6 +93,8 @@ https://docs.google.com/spreadsheets/d/1PEY84a24MVroX8h2NeJAVdCPRWwuLJ8HOqL3oDlx
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/website.png)
   
 ### *Transcoding ...* : Website as instrument
+
+- **Description** : Compose with the sound files a contemporary visual of war.
   
   https://youtu.be/lrLUtJWRRbA
 
