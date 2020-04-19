@@ -78,6 +78,10 @@ https://www.youtube.com/watch?v=gJxc09mGMtE
 https://docs.google.com/spreadsheets/d/1PEY84a24MVroX8h2NeJAVdCPRWwuLJ8HOqL3oDlx_xA/edit?usp=sharing
 
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/website.png)
+  
+  *Transcoding ...* : Website as instrument
+  
+  https://youtu.be/lrLUtJWRRbA
 
 ## FINAL OUTCOME
 
@@ -157,6 +161,8 @@ https://docs.google.com/spreadsheets/d/1PEY84a24MVroX8h2NeJAVdCPRWwuLJ8HOqL3oDlx
 - **[Stefan Schafer](http://stefanschafer.net) - Death and Digital**
 
 - **The Deer Hunter** 
+  *An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small     industrial town in Pennsylvania.*
+  
    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](IMD/deerhunter.jpg)
 
 
