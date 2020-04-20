@@ -100,15 +100,27 @@ https://docs.google.com/spreadsheets/d/1PEY84a24MVroX8h2NeJAVdCPRWwuLJ8HOqL3oDlx
   
   https://youtu.be/lrLUtJWRRbA
 
-## FINAL OUTCOME
+## FINAL OUTCOME : The timeline of media
 
-- **Description** : With the libary of sounds and the visual experiments I create an visual (Interactive) soundscape.
+- **Description** : From Analogue media to a digitial tool. While listing to the lineair experience from the audio file you will see the development of media documenting war. The record begins with showing the Vietnam war media and finish with media from wars in 2020. The liniear narritive of the record creates an timeline of media from war, something that first made his appearance during the Vietnam war. The narritve is create by the relationships between the medias and the metadata of the images. 
 
-- **Tool** : MAX 8
+The second layer is the categories from the list created from the script of the record. These layers of information can be filtered. 
+
+- **Tool** : Coding (html,css,js)
 
 - **Outcome** :
 
 - **Lost in translation** :
+
+---
+
+*- **Description** : With the libary of sounds and the visual experiments I create an visual (Interactive) soundscape.*
+
+*- **Tool** : MAX 8*
+
+*- **Outcome** :*
+
+*- **Lost in translation** :*
 
 
 ## INSPIRATION
