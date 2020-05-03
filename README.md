@@ -69,14 +69,11 @@ Because the record is from 1972, I wanted to research about war now a days. Espe
 
  [<img src="IMD/conflict-in-vietnam_4.gif" width="50%">](#)
 
-- **"Playing Metal Gear Solid V: The Phantom Pain"**
+- **["Playing Metal Gear Solid V : The Phantom Pain"]**(https://pca.st/19vld8tq)
 
-  [Jamil Jan Kochai Reads "Playing Metal Gear Solid V: The Phantom Pain" - The New Yorker: The Writer's Voice - New Fiction from The New Yorker](https://pca.st/19vld8tq)
 
-- **Francis Alÿs - Childern's game**
+- **[Francis Alÿs - Childern's game]**(https://www.eyefilm.nl/en/exhibition/francis-alÿs)
 *Alÿs films in cities and villages, but also in places dominated by conflict and tension – such as Afghanistan or a Yazidi refugee camp in Iraq. Alÿs captures everything with a humane eye and mild amazement. The games often echo the rituals, symbols, customs and insights of each particular society he looks at through his lens.*
-
-  [Francis Alÿs](https://www.eyefilm.nl/en/exhibition/francis-alÿs)
 
 ## The counter reaction of the Vietnam War
 The Vietnam war was the first war that people could follow on their televisions. Because of this there were a lot of protests in America. People could see up close what was going on in Vietnam. The war wasn’t anymore 1000 of kilometres away, but right in there living room. It became more personal, people couldn’t turn their heads away anymore.
@@ -84,9 +81,9 @@ The Vietnam war was the first war that people could follow on their televisions.
 - **Life Magazine : The 60's** : 
   *A war with two battlefronts, one in Asia, one on America's campuses*
   
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5e5fa0-1e36-41cc-a190-d55077bcfccd/90398235_2729195900512750_1141381060626481152_n.jpg](IMD/60.jpg)
+   [<img src="IMD/60.jpg" width="50%">](#)
 
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](IMD/601.jpg)
+   [<img src="IMD/601.jpg" width="50%">](#)
   
 - **Student protest**
 *On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* *See[[Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )*
@@ -118,15 +115,16 @@ With this transcoding, I wanted to understand better what de record visualizes.
 I listen to the record in the IISG in a small room full with different technology device’s. 
 From the record player, I recorded the songs on my computer. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](IMD/a1.jpeg)
+   [<img src="IMD/a1.jpeg" width="50%">](#)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](IMD/a2.jpeg)
+   [<img src="IMD/a2.jpeg" width="50%">](#)
 
 Through the internet I searched for the different definitions of the terms in the script. After this I would place this information in InDesign as the extra layer over the original script.
 
 ### Results
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/een.png)
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/twee.png)
+[<img src="IMD/een.png" width="50%">](#)
+[<img src="IMD/twee.png" width="50%">](#)
+
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/drie.png)
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/vier.png)
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/vijf.png)
@@ -146,7 +144,7 @@ With this transcoding, my goal was to see how one sound can create different vis
 ### Methods
 I started with editing the recorded files in Premiere Pro. After that I wrote the listing excises in Word and send it to different people through We transfer. After they were finished with listing and reacting on the sound file they would send it back to me. In Premiere Pro, I put the sound file and the pictures together. And exported this outcome to mp4 format.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/elf.png)
+   [<img src="IMD/elf.png" width="50%">](#)
 
 ### Results
 https://youtu.be/sVrxxTUw4f8
@@ -190,11 +188,9 @@ My aim with this transcoding was that I wanted to construct an archive of differ
 I search on YouTube for news reports that were made during the Vietnam War. I would stop the video and make a screenshot of it the still. I organized these photos in categorise in Finder. After this I established the categorise together in InDesign. 
 
 ### Results
+[<img src="IMD/reporters_Pagina_1.jpg" width="50%">](#)
 
-![IMD/reporters_Pagina_1.jpg](IMD/reporters_Pagina_1.jpg)
-
-![IMD/reporters_Pagina_2.jpg](IMD/reporters_Pagina_2.jpg)
-
+[<img src="IMD/reporters_Pagina_2.jpg" width="50%">](#)
 
 ## Sound Library 
 ### Description
@@ -206,12 +202,13 @@ Not only through sound, but also poetry and imagery. To combine all the various 
 
 ### Methods
 - google docs
-![IMD/twaalf.png](IMD/twaalf.png)
+[<img src="IMD/twaalf.png" width="50%">](#)
+
 
 - html / ccs
 
 ### Results
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/website.png)
+[<img src="IMD/website.png" width="50%">](#)
 
 ### Source Links
 - https://vimeo.com/280524012
