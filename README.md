@@ -81,9 +81,8 @@ The Vietnam war was the first war that people could follow on their televisions.
 - **Life Magazine : The 60's** : 
   *A war with two battlefronts, one in Asia, one on America's campuses*
   
-   [<img src="IMD/60.jpg" width="50%">](#)
-
-   [<img src="IMD/601.jpg" width="50%">](#)
+   [<img src="IMD/60.jpg" width="40%">](#)
+   [<img src="IMD/601.jpg" width="40%">](#)
   
 - **Student protest**
 *On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* *See[[Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )*
@@ -115,9 +114,8 @@ With this transcoding, I wanted to understand better what de record visualizes.
 I listen to the record in the IISG in a small room full with different technology device’s. 
 From the record player, I recorded the songs on my computer. 
 
-   [<img src="IMD/a1.jpeg" width="50%">](#)
-
-   [<img src="IMD/a2.jpeg" width="50%">](#)
+   [<img src="IMD/a1.jpeg" width="40%">](#)
+   [<img src="IMD/a2.jpeg" width="40%">](#)
 
 Through the internet I searched for the different definitions of the terms in the script. After this I would place this information in InDesign as the extra layer over the original script.
 
@@ -125,14 +123,18 @@ Through the internet I searched for the different definitions of the terms in th
 [<img src="IMD/een.png" width="40%">](#)
 [<img src="IMD/twee.png" width="40%">](#)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/drie.png)
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/vier.png)
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/vijf.png)
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/zes.png)
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/zeven.png)
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/acht.png)
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/negen.png)
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/tien.png)
+[<img src="IMD/drie.png" width="40%">](#)
+[<img src="IMD/vier.png" width="40%">](#)
+
+[<img src="IMD/vijf.png" width="40%">](#)
+[<img src="IMD/zes.png" width="40%">](#)
+
+[<img src="IMD/zeven.png" width="40%">](#)
+[<img src="IMD/acht.png" width="40%">](#)
+
+[<img src="IMD/negen.png" width="40%">](#)
+[<img src="IMD/tien.png" width="40%">](#)
+
 
 ## Listening Excersise
 ### Description
@@ -147,7 +149,7 @@ I started with editing the recorded files in Premiere Pro. After that I wrote th
    [<img src="IMD/elf.png" width="50%">](#)
 
 ### Results
-https://youtu.be/sVrxxTUw4f8
+[Listening Excersise visualisation](https://youtu.be/sVrxxTUw4f8)
 
 ## Enviroment objects react on sound
 ### Description
@@ -160,9 +162,9 @@ My aim with this transcoding was that I wanted to create a visual soundscape.
 I used Cinema 4D to create the moving objects.
 
 ### Results
-https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be
+[Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
 
-https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
+[Cinema 4D Tryout 2.0 - Trees](https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be)
 
 ## Counter-reaction on record 
 ### Description
@@ -175,7 +177,7 @@ With this transcoding, I wanted to experiment with different sound inputs, how t
 I used 4K Video Downloader to download the video *On this day: Four killed in Kent State shooting*. Then I mixed the two sounds together in Audition and exported this outcome to mp3 format.
 
 ### Results
-https://www.youtube.com/watch?v=gJxc09mGMtE
+[Counter reaction on record](https://www.youtube.com/watch?v=gJxc09mGMtE)
 
 ## Photo serie of Vietnam video footage
 ### Description
@@ -188,9 +190,8 @@ My aim with this transcoding was that I wanted to construct an archive of differ
 I search on YouTube for news reports that were made during the Vietnam War. I would stop the video and make a screenshot of it the still. I organized these photos in categorise in Finder. After this I established the categorise together in InDesign. 
 
 ### Results
-[<img src="IMD/reporters_Pagina_1.jpg" width="50%">](#)
-
-[<img src="IMD/reporters_Pagina_2.jpg" width="50%">](#)
+[<img src="IMD/reporters_Pagina_1.jpg" width="40%">](#)
+[<img src="IMD/reporters_Pagina_2.jpg" width="40%">](#)
 
 ## Sound Library 
 ### Description
@@ -202,8 +203,8 @@ Not only through sound, but also poetry and imagery. To combine all the various 
 
 ### Methods
 - google docs
-[<img src="IMD/twaalf.png" width="50%">](#)
 
+[<img src="IMD/twaalf.png" width="100%">](#)
 
 - html / ccs
 
@@ -211,7 +212,7 @@ Not only through sound, but also poetry and imagery. To combine all the various 
 [<img src="IMD/website.png" width="50%">](#)
 
 ### Source Links
-- https://vimeo.com/280524012
+- [The Deleted City 2.0](https://vimeo.com/280524012)
 
 ## Website as instrument
 ### Description
@@ -224,12 +225,12 @@ I tried to build a website as instrument, so that you could compose your own mus
 - html / css
 
 ### Results
-https://youtu.be/lrLUtJWRRbA
+[Website as an Instrument](https://youtu.be/lrLUtJWRRbA)
 
 ### Source Links
-- https://www.youtube.com/watch?v=kua7TZtroY4
-- https://www.youtube.com/watch?v=Xpg8kJq50NU
-- https://synth.playtronica.com
+- [Pd/GEM -live coding](https://www.youtube.com/watch?v=kua7TZtroY4)
+- [Pure Data: Audio Manipulating Video](https://www.youtube.com/watch?v=Xpg8kJq50NU)
+- [Online synths](https://synth.playtronica.com)
 
 # Reflection
 The transcoding’s helped me to formulate the final outcome of this project. I came across different ways of visualising, documenting and archiving a war. Through the various sketches I understood better what was interesting to use and what my intention is with the project.
