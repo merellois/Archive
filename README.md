@@ -5,7 +5,7 @@
 1. [Artefact](#Artefact)
     - [Metadata](#Metadata)
 2. [Research](#Research)
-    1. [Vietnam War](#Vietnamwar)
+    1. [Vietnam War](##Vietnamwar)
     2. [Visualization of war](#Visualizationofwar)
     3. [Contemporary war](#Contemporarywar)
     4. [The counter reaction of the Vietnam War](#ThecounterreactionoftheVietnamWar)
