@@ -11,12 +11,12 @@
     4. [The counter reaction of the Vietnam War](#The-counter-reaction-of-the-Vietnam-War)
 3. [Transcoding](#Transcoding)
     1. [Script of the script](#Script-of-the-script)
-    2. [Transcoding : Listening Excersise](#Transcoding-:-Listening-Excersise)
-    3. [Transcoding : Enviroment objects react on sound](#Transcoding-:-Enviroment-objects-react-on-sound)
-    4. [Transcoding : Counter-reaction on record ](#Transcoding-:-Counter-reaction-on-record)
-    5. [Transcoding : Photo serie of Vietnam video footage](#Transcoding-:-Photo-serie-of-Vietnam-video-footage)
-    6. [Transcoding Tool : Sound Library ](#Transcoding-Tool-:-Sound-Library)
-    7. [Transcoding Tool : Website as instrument ](#Transcoding-Tool-:-Website-as-instrument)    
+    2. [Listening Excersise](#Transcoding-:-Listening-Excersise)
+    3. [Enviroment objects react on sound](#Enviroment-objects-react-on-sound)
+    4. [Counter-reaction on record ](#Counter-reaction-on-record)
+    5. [Photo serie of Vietnam video footage](#TPhoto-serie-of-Vietnam-video-footage)
+    6. [Sound Library](#Sound-Library)
+    7. [Website as instrument](#Website-as-instrument)    
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
     - [Outcome Links](#Outcome-Links)
@@ -137,7 +137,7 @@ Through the internet I searched for the different definitions of the terms in th
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/negen.png)
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/tien.png)
 
-## Transcoding : Listening Excersise
+## Listening Excersise
 ### Description
 I asked six different people with an diversity in background, studie and age to listen to the soundfiles of the record and try to visualise this.
 
@@ -152,7 +152,7 @@ I started with editing the recorded files in Premiere Pro. After that I wrote th
 ### Results
 https://youtu.be/sVrxxTUw4f8
 
-## Transcoding : Enviroment objects react on sound
+## Enviroment objects react on sound
 ### Description
 I created water and trees that move on the sound of the record. The objects can be a part of a world where you experience the Vietnam war, through the interaction with your environment.
 
@@ -167,7 +167,7 @@ https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be
 
 https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be
 
-## Transcoding : Counter-reaction on record 
+## Counter-reaction on record 
 ### Description
 With this experiment, I want to visualize the two “battlefronts” of the Vietnam war, one is on the student campus in America and the other on the battlefield in Vietnam. The protest sound is a reaction on the war sound. The two different sounds interact with each other. Even though the two are words apart, they become one. 
 
@@ -180,7 +180,7 @@ I used 4K Video Downloader to download the video *On this day: Four killed in Ke
 ### Results
 https://www.youtube.com/watch?v=gJxc09mGMtE
 
-## Transcoding : Photo serie of Vietnam video footage
+## Photo serie of Vietnam video footage
 ### Description
 Images from news reports made during the Vietnam war.
 
@@ -197,7 +197,7 @@ I search on YouTube for news reports that were made during the Vietnam War. I wo
 ![IMD/reporters_Pagina_2.jpg](IMD/reporters_Pagina_2.jpg)
 
 
-##  Transcoding Tool : Sound Library 
+## Sound Library 
 ### Description
 With this experiment I want to create a library that archives different sounds from war and the counter-reactions on war. 
 
@@ -217,7 +217,7 @@ Not only through sound, but also poetry and imagery. To combine all the various 
 ### Source Links
 - https://vimeo.com/280524012
 
-##  Transcoding Tool : Website as instrument
+## Website as instrument
 ### Description
 Compose with the sound files of the record a contemporary visual of war. 
 
