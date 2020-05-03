@@ -1,15 +1,25 @@
-[<img src="IMD//header.jpg" width="100%">](#)
+[<img src="IMD/header.jpg" width="100%">](#)
 # The media of war
 
 ### Table of Contents
 1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
+    - [Metadata](#Metadata)
 2. [Research](#Research)
+    1. [Vietnam War](#Vietnam war)
+    2. [Visualization of war](#Visualization of war)
+    3. [Contemporary war](#Contemporary war)
+    4. [The counter reaction of the Vietnam War](#The counter reaction of the Vietnam War)
 3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
+    1. [Transcoding: Script of the script](#Transcoding: Script of the script)
+    2. [Transcoding : Listening Excersise](#Transcoding : Listening Excersise)
+    3. [Transcoding : Enviroment objects react on sound](#Transcoding : Enviroment objects react on sound)
+    4. [Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )
+    5. [Transcoding : Photo serie of Vietnam video footage](#Transcoding : Photo serie of Vietnam video footage)
+    6. [Transcoding Tool : Sound Library ](#Transcoding Tool : Sound Library)
+    7. [Transcoding Tool : Website as instrument ](#Transcoding Tool : Website as instrument)    
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
+    - [Outcome Links](#Outcome Links)
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
@@ -25,15 +35,15 @@
 | **Medium** | Record
 | **Materials** | Polyvinyl chloride 
 | **Date** | 1972
-|![Good morning Vietnam](IMD/Good_morning_vietnam.jpg)![backside](IMD/achter.jpg)| On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
+|[<img src="IMD/Good_morning_vietnam.jpg" width="100%">]<img src="IMD/achter.jpg" width="100%">]| 
+On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
 
 # Research
 In my research, I looked at the different sides of war. From the history, the tools to how the media of war has change over time. The Vietnam war was a crucial point in history, because from this point the world could follow what was happening in the war. They could react on it and express their opinion towards the politics. 
 
 ## Vietnam War
 My research started with understanding what happened in the Vietnam War. One important resource was the script that was attached to the record. This script explains what and who you hear on the record. Through this I understood better what the meaning was behind the sound and what kind of story the maker of the record wanted to portray. I got a better idea of how live should have been during the war.
-
-[Transcoding No. 1](#Transcoding-no-1)
+*See [Transcoding No. 1](#Transcoding-no-1)*
 
 ### Visualization of war
 To find out more about Vietnam War, I looked at different visualization of that war. Next to that I studied the functions of a war and the reason why people want to start a war.
@@ -81,11 +91,10 @@ The Vietnam war was the first war that people could follow on their televisions.
   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](IMD/601.jpg)
   
 - **Student protest**
-*On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.*
+*On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* *See[[Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )*
 
-[Four killed in Kent State shooting](https://www.youtube.com/watch?v=Lmd6CHah7Wg)
+[Student protest against the Vietnam war](https://www.youtube.com/watch?v=Lmd6CHah7Wg)
 
-[Transcoding No. 4](#Transcoding-no-4)
 
 ## The roll of the media in war
 The role of the media changes because of the Vietnam war. From that moment on the development of technology and communication tools became crucial for wars. 
