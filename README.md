@@ -80,9 +80,9 @@ The Vietnam war was the first war that people could follow on their televisions.
 
 - **Life Magazine : The 60's** : 
   *A war with two battlefronts, one in Asia, one on America's campuses*
-  
-   [<img src="IMD/60.jpg" width="40%">](#)
+   
    [<img src="IMD/601.jpg" width="40%">](#)
+   [<img src="IMD/60.jpg" width="40%">](#)
   
 - **Student protest**
 *On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* *See[[Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )*
@@ -261,9 +261,9 @@ From Analogue media to a digitial tool. While listing to the lineair experience 
   
    [Archive of Modern Conflict - Photobooks and artist's books](https://archiveofmodernconflict.com)
   
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3989fc4e-78f2-48a4-bd08-00488eaaabfc/warprimer.jpg](IMD/warprimer.jpg)
-
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87195dfe-d4ec-4560-9dd1-fa8a0035313e/BC_WP2_8-min.jpg](IMD/BC_WP2_8-min.jpg)
+  [<img src="IMD/warprimer.jpg" width="40%">](#)
+  
+  [<img src="IMD/BC_WP2_8-min.jpg" width="40%">](#)
 
 - [Stefan Schafer](http://stefanschafer.net) - *Death and Digital*
 
