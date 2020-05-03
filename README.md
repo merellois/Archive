@@ -5,18 +5,18 @@
 1. [Artefact](#Artefact)
     - [Metadata](#Metadata)
 2. [Research](#Research)
-    1. [Vietnam War](#Vietnam war)
-    2. [Visualization of war](#Visualization of war)
-    3. [Contemporary war](#Contemporary war)
-    4. [The counter reaction of the Vietnam War](#The counter reaction of the Vietnam War)
+    1. [Vietnam War](#Vietnamwar)
+    2. [Visualization of war](#Visualizationofwar)
+    3. [Contemporary war](#Contemporarywar)
+    4. [The counter reaction of the Vietnam War](#ThecounterreactionoftheVietnamWar)
 3. [Transcoding](#Transcoding)
-    1. [Transcoding: Script of the script](#Transcoding: Script of the script)
-    2. [Transcoding : Listening Excersise](#Transcoding : Listening Excersise)
-    3. [Transcoding : Enviroment objects react on sound](#Transcoding : Enviroment objects react on sound)
-    4. [Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )
-    5. [Transcoding : Photo serie of Vietnam video footage](#Transcoding : Photo serie of Vietnam video footage)
-    6. [Transcoding Tool : Sound Library ](#Transcoding Tool : Sound Library)
-    7. [Transcoding Tool : Website as instrument ](#Transcoding Tool : Website as instrument)    
+    1. [Transcoding: Script of the script](#Transcoding:Scriptofthescript)
+    2. [Transcoding : Listening Excersise](#Transcoding:ListeningExcersise)
+    3. [Transcoding : Enviroment objects react on sound](#Transcoding:Enviromentobjectsreactonsound)
+    4. [Transcoding : Counter-reaction on record ](#Transcoding:Counter-reactiononrecord)
+    5. [Transcoding : Photo serie of Vietnam video footage](#Transcoding:PhotoserieofVietnamvideofootage)
+    6. [Transcoding Tool : Sound Library ](#TranscodingTool:SoundLibrary)
+    7. [Transcoding Tool : Website as instrument ](#TranscodingTool:Websiteasinstrument)    
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
     - [Outcome Links](#OutcomeLinks)
@@ -35,7 +35,7 @@
 | **Medium** | Record
 | **Materials** | Polyvinyl chloride 
 | **Date** | 1972
-|![achter.jpg](IMD/achter.jpg)| 
+|![achter.jpg](IMD/achter.jpg) ![Good_morning_vietnam.jpg](IMD/Good_morning_vietnam.jpg)| 
 On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
 
 # Research
