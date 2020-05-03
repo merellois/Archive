@@ -55,20 +55,19 @@ To find out more about Vietnam War, I looked at different visualization of that 
 - **Apocalypse Now**
 *A U.S. Army officer serving in Vietnam called Captain Willard is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god. As he travels through the jungle of Vietnam and Cambodia across the Nung River, Captain Willard becomes increasingly fascinated by his 'target' and questions his mission and the hypocrisy of the United States military command.*
 
- ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/Traack1_1.30.png)
+ [<img src="IMD/Traack1_1.30.png" width="50%">](#)
 
 - **Wag the dog**
 *Shortly before an election, a spin-doctor and a Hollywood producer join efforts to fabricate a war in order to cover up a Presidential sex scandal.*
 
- ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a29ee69-9090-4f3b-b1c6-5c922dc028e3/1428520450_plutovstvo-1997-3.jpg](IMD/1428520450_plutovstvo-1997-3.jpg)
-
- 
+ [<img src="IMD/1428520450_plutovstvo-1997-3.jpg" width="50%">](#)
+  
 ## Contemporary war
 Because the record is from 1972, I wanted to research about war now a days. Especially how war is depicted in video games. I find it fascinating how people interpret war video games. Everybody has a different experience with war, so will also have a different view on it. 
 
 - **Conflict in Vietnam gameplay** (PC Game, 1986)
 
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e823d42-f68b-4c70-9b8b-59aa11656a4a/conflict-in-vietnam_4.gif](IMD/conflict-in-vietnam_4.gif)
+ [<img src="IMD/conflict-in-vietnam_4.gif" width="50%">](#)
 
 - **"Playing Metal Gear Solid V: The Phantom Pain"**
 
