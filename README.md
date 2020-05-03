@@ -35,7 +35,7 @@
 | **Medium** | Record
 | **Materials** | Polyvinyl chloride 
 | **Date** | 1972
-|<img src="IMD/Good_morning_vietnam.jpg"><img src="IMD/achter.jpg">| 
+|![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_14773906319 8796_4053628376353603584_n.jpg](IMD/Good_morning_vietnam.jpg)![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2df19816-3222-405b-a0fc-ad067a2dfc8c/90442191_147739063198796_4053628376353603584_n.jpg](IMD/achter.jpg)| 
 On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
 
 # Research
