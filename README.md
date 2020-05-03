@@ -1,5 +1,5 @@
-[<img src="Documentation/img/cover_img.png" width="100%">](#)
-# Media of war
+[<img src="IMD//header.jpg" width="100%">](#)
+# The media of war
 
 ### Table of Contents
 1. [Artefact](#Artefact)
@@ -25,7 +25,7 @@
 | **Medium** | Record
 | **Materials** | Polyvinyl chloride 
 | **Date** | 1972
-|![Good morning Vietnam](IMD/Good_morning_vietnam.jpg)![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e180c32-2a62-4dcf-864f-445af3308dc2/goedblz1.jpg](IMD/goedblz1.jpg)| On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
+|![Good morning Vietnam](IMD/Good_morning_vietnam.jpg)![backside](IMD/achter.jpg)| On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
 
 # Research
 In my research, I looked at the different sides of war. From the history, the tools to how the media of war has change over time. The Vietnam war was a crucial point in history, because from this point the world could follow what was happening in the war. They could react on it and express their opinion towards the politics. 
@@ -263,3 +263,8 @@ From Analogue media to a digitial tool. While listing to the lineair experience 
 - [Stefan Schafer](http://stefanschafer.net) - *Death and Digital*
 
 - [Afghan war carpets](https://www.artsy.net/article/artsy-editorial-lessons-afghan-women-weave-modern-war-ancient-tradition) - *Lessons from the Afghan Women Who Weave Modern War into an Ancient Tradition* 
+
+- [Google maps](https://www.google.com/maps/d/viewer?ie=UTF8&hl=en&msa=0&ll=17.308687952170636%2C37.265625&spn=144.009758%2C358.59375&z=2&source=embed&mid=1o9hyafe5ZQdLpBEhS_vcB0ao988) - *Global Conflict Map by Region*
+
+
+
