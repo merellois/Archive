@@ -81,8 +81,8 @@ The Vietnam war was the first war that people could follow on their televisions.
 - **Life Magazine : The 60's** : 
   *A war with two battlefronts, one in Asia, one on America's campuses*
    
-   [<img src="IMD/601.jpg" width="40%">](#)
    [<img src="IMD/60.jpg" width="40%">](#)
+   [<img src="IMD/601.jpg" width="40%">](#)
   
 - **Student protest**
 *On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* *See[[Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )*
