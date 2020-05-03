@@ -11,7 +11,7 @@
     4. [The counter reaction of the Vietnam War](#The-counter-reaction-of-the-Vietnam-War)
 3. [Transcoding](#Transcoding)
     1. [Script of the script](#Script-of-the-script)
-    2. [Listening Excersise](#Transcoding-:-Listening-Excersise)
+    2. [Listening Excersise](#Listening-Excersise)
     3. [Enviroment objects react on sound](#Enviroment-objects-react-on-sound)
     4. [Counter-reaction on record ](#Counter-reaction-on-record)
     5. [Photo serie of Vietnam video footage](#TPhoto-serie-of-Vietnam-video-footage)
@@ -122,8 +122,8 @@ From the record player, I recorded the songs on my computer.
 Through the internet I searched for the different definitions of the terms in the script. After this I would place this information in InDesign as the extra layer over the original script.
 
 ### Results
-[<img src="IMD/een.png" width="50%">](#)
-[<img src="IMD/twee.png" width="50%">](#)
+[<img src="IMD/een.png" width="40%">](#)
+[<img src="IMD/twee.png" width="40%">](#)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/drie.png)
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7817eb2a-e954-4e2e-9b7f-c67f1a3c00c9/19y3wfgpa7031.png](IMD/vier.png)
