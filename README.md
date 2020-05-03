@@ -10,7 +10,7 @@
     3. [Contemporary war](#Contemporary-war)
     4. [The counter reaction of the Vietnam War](#The-counter-reaction-of-the-Vietnam-War)
 3. [Transcoding](#Transcoding)
-    1. [Transcoding : Script of the script](#Transcoding-:-Script-of-the-script)
+    1. [Script of the script](#Script-of-the-script)
     2. [Transcoding : Listening Excersise](#Transcoding-:-Listening-Excersise)
     3. [Transcoding : Enviroment objects react on sound](#Transcoding-:-Enviroment-objects-react-on-sound)
     4. [Transcoding : Counter-reaction on record ](#Transcoding-:-Counter-reaction-on-record)
@@ -108,7 +108,7 @@ The role of the media changes because of the Vietnam war. From that moment on th
 # Transcoding
 The transcoding’s I made are visualization of my research. It was good to not immediately start working on my end result, but first see what I have and how I can play with this. They gave a clear overview of what kind directions I could go to. With the transcoding’s I tried to create tools that can visualize war and sound in different ways.
 
-## Transcoding: Script of the script
+## Script of the script
 ### Description
 This transcoding is the script that is attached to the record, but then with an extra layer of explanatory information that explains the meaning of the terms in the script.
 
