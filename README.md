@@ -50,7 +50,7 @@ To find out more about Vietnam War, I looked at different visualization of that 
 - **Deer hunter**
 *An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.*
 
-[<img src="IMD/hdeerhunter.jpg" width="50%">](#)
+[<img src="IMD/deerhunter.jpg" width="50%">](#)
 
 - **Apocalypse Now**
 *A U.S. Army officer serving in Vietnam called Captain Willard is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god. As he travels through the jungle of Vietnam and Cambodia across the Nung River, Captain Willard becomes increasingly fascinated by his 'target' and questions his mission and the hypocrisy of the United States military command.*
