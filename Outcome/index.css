@@ -1,0 +1,150 @@
+body {
+  background-color: black;
+  overflow: hidden;
+}
+
+.vl {
+  border-left: 6px solid yellow;
+  height: 1200px;
+}
+
+#play,
+#pause {
+	float: left;
+	width: 180px;
+}
+#play:hover,
+#pause:hover {
+	cursor: pointer;
+}
+#pause {
+	display: none;
+}
+
+
+
+#play1,
+#pause1 {
+	float: left;
+	width: 180px;
+
+}
+#play1:hover,
+#pause1:hover {
+	cursor: pointer;
+}
+#pause1 {
+	display: none;
+}
+
+#play2,
+#pause2 {
+	float: left;
+	width: 180px;
+
+}
+#play2:hover,
+#pause2:hover {
+	cursor: pointer;
+}
+#pause2 {
+	display: none;
+}
+
+#play3,
+#pause3 {
+	float: left;
+	width: 180px;
+
+}
+#play3:hover,
+#pause3:hover {
+	cursor: pointer;
+}
+#pause3 {
+	display: none;
+}
+
+#play4,
+#pause4 {
+	float: left;
+	width: 180px;
+
+}
+#play4:hover,
+#pause4:hover {
+	cursor: pointer;
+}
+#pause4 {
+	display: none;
+}
+
+#play5,
+#pause5 {
+	float: left;
+	width: 180px;
+
+}
+#play5:hover,
+#pause5:hover {
+	cursor: pointer;
+}
+#pause5 {
+	display: none;
+}
+
+#play6,
+#pause6 {
+	float: left;
+	width: 180px;
+
+}
+#play6:hover,
+#pause6:hover {
+	cursor: pointer;
+}
+#pause6 {
+	display: none;
+}
+
+#play7,
+#pause7 {
+	float: left;
+	width: 180px;
+
+}
+#play7:hover,
+#pause7:hover {
+	cursor: pointer;
+}
+#pause7 {
+	display: none;
+}
+
+#play8,
+#pause8 {
+	float: left;
+	width: 180px;
+
+}
+#play8:hover,
+#pause8:hover {
+	cursor: pointer;
+}
+#pause8 {
+	display: none;
+}
+
+#play9,
+#pause9 {
+	float: left;
+	width: 180px;
+
+}
+#play9:hover,
+#pause9:hover {
+	cursor: pointer;
+}
+#pause9 {
+	display: none;
+}
