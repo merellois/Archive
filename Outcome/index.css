@@ -1,150 +1,44 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body {
-  background-color: black;
+  margin: 40px;
+  font-family: 'Open Sans', 'sans-serif';
+  background-color: white;
+  color: #444;
   overflow: hidden;
 }
 
-.vl {
-  border-left: 6px solid yellow;
-  height: 1200px;
+.line {
+  border-left: 2px solid rgb(2, 19, 71);
+  top: 0px;
+  height: 1000px;
+  position: absolute;
 }
 
-#play,
-#pause {
-	float: left;
-	width: 180px;
+.grid-pane {
+  vertical-align: top;
+  border:1px solid rgb(2, 19, 71);
 }
-#play:hover,
-#pause:hover {
-	cursor: pointer;
-}
-#pause {
-	display: none;
+
+.grid-item {
+  width: 10%;
+  height: 100px;
+  border: 1px solid rgb(2, 19, 71);
 }
 
 
-
-#play1,
-#pause1 {
-	float: left;
-	width: 180px;
-
-}
-#play1:hover,
-#pause1:hover {
-	cursor: pointer;
-}
-#pause1 {
-	display: none;
+.grid-item:hover{
+  width: 10%;
+  height: 100px;
+  border: 1px solid black;
+  background-color: rgb(2, 19, 71);
 }
 
-#play2,
-#pause2 {
-	float: left;
-	width: 180px;
-
-}
-#play2:hover,
-#pause2:hover {
-	cursor: pointer;
-}
-#pause2 {
-	display: none;
-}
-
-#play3,
-#pause3 {
-	float: left;
-	width: 180px;
-
-}
-#play3:hover,
-#pause3:hover {
-	cursor: pointer;
-}
-#pause3 {
-	display: none;
-}
-
-#play4,
-#pause4 {
-	float: left;
-	width: 180px;
-
-}
-#play4:hover,
-#pause4:hover {
-	cursor: pointer;
-}
-#pause4 {
-	display: none;
-}
-
-#play5,
-#pause5 {
-	float: left;
-	width: 180px;
-
-}
-#play5:hover,
-#pause5:hover {
-	cursor: pointer;
-}
-#pause5 {
-	display: none;
-}
-
-#play6,
-#pause6 {
-	float: left;
-	width: 180px;
-
-}
-#play6:hover,
-#pause6:hover {
-	cursor: pointer;
-}
-#pause6 {
-	display: none;
-}
-
-#play7,
-#pause7 {
-	float: left;
-	width: 180px;
-
-}
-#play7:hover,
-#pause7:hover {
-	cursor: pointer;
-}
-#pause7 {
-	display: none;
-}
-
-#play8,
-#pause8 {
-	float: left;
-	width: 180px;
-
-}
-#play8:hover,
-#pause8:hover {
-	cursor: pointer;
-}
-#pause8 {
-	display: none;
-}
-
-#play9,
-#pause9 {
-	float: left;
-	width: 180px;
-
-}
-#play9:hover,
-#pause9:hover {
-	cursor: pointer;
-}
-#pause9 {
-	display: none;
-}
+/* .grid-item--width2 {
+  width: 400px;
+} */
