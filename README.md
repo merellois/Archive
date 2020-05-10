@@ -1,5 +1,5 @@
-[<img src="IMD/header.jpg" width="100%">](#)
-# The media of war
+[<img src="https://github.com/merellois/Archive/blob/master/IMD/header.jpg" width="100%">](#)
+# THE MEDIA OF WAR
 
 ### Table of Contents
 1. [Artefact](#artefact)
@@ -38,14 +38,15 @@
 | **Medium** | Record
 | **Materials** | Polyvinyl chloride 
 | **Date** | 1972
-| ![Good_morning_vietnam.jpg](IMD/Good_morning_vietnam.jpg)![achter.jpg](IMD/achter.jpg)| On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
+| <img src="https://github.com/merellois/Archive/blob/master/IMD/Good_morning_vietnam.jpg">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/achter.jpg"> | On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
 
 ## Research
 In my research, I looked at the different sides of war. From the history, the tools to how the media of war has change over time. The Vietnam war was a crucial point in history, because from this point the world could follow what was happening in the war. They could react on it and express their opinion towards the politics. 
 
 ### Vietnam War
 My research started with understanding what happened in the Vietnam War. One important resource was the script that was attached to the record. This script explains what and who you hear on the record. Through this I understood better what the meaning was behind the sound and what kind of story the maker of the record wanted to portray. I got a better idea of how live should have been during the war.
-*See [Transcoding No. 1](#Transcoding-no-1)*
+*See [Transcoding No. 1](#transcoding-no-1)*
 
 ### Visualization of war
 To find out more about Vietnam War, I looked at different visualization of that war. Next to that I studied the functions of a war and the reason why people want to start a war.
@@ -53,24 +54,20 @@ To find out more about Vietnam War, I looked at different visualization of that 
 - **Deer hunter**
 *An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.*
 
-[<img src="IMD/deerhunter.jpg" width="50%">]
-
 - **Apocalypse Now**
 *A U.S. Army officer serving in Vietnam called Captain Willard is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god. As he travels through the jungle of Vietnam and Cambodia across the Nung River, Captain Willard becomes increasingly fascinated by his 'target' and questions his mission and the hypocrisy of the United States military command.*
-
- [<img src="IMD/Traack1_1.30.png" width="50%">]
 
 - **Wag the dog**
 *Shortly before an election, a spin-doctor and a Hollywood producer join efforts to fabricate a war in order to cover up a Presidential sex scandal.*
 
- [<img src="IMD/1428520450_plutovstvo-1997-3.jpg" width="50%">]
+<img src="https://github.com/merellois/Archive/blob/master/IMD/movie%20stills.jpg">
  
 ### Contemporary war
 Because the record is from 1972, I wanted to research about war now a days. Especially how war is depicted in video games. I find it fascinating how people interpret war video games. Everybody has a different experience with war, so will also have a different view on it. 
 
 - **Conflict in Vietnam gameplay** (PC Game, 1986)
 
- [<img src="IMD/conflict-in-vietnam_4.gif" width="50%">](#)
+<img src="https://github.com/merellois/Archive/blob/master/IMD/game.jpg">
 
 - **["Playing Metal Gear Solid V : The Phantom Pain"]**(https://pca.st/19vld8tq)
 
@@ -83,13 +80,13 @@ The Vietnam war was the first war that people could follow on their televisions.
 
 - **Life Magazine : The 60's** : 
   *A war with two battlefronts, one in Asia, one on America's campuses*
-   
-   [<img src="IMD/60.jpg" width="40%">](#)
-   [<img src="IMD/601.jpg" width="40%">](#)
+
+<img src="https://github.com/merellois/Archive/blob/master/IMD/life.jpg">
   
 - **Student protest**
 *On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* *See[[Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )*
 
+https://j.gifs.com/wVqwB8.gif
 [Student protest against the Vietnam war](https://www.youtube.com/watch?v=Lmd6CHah7Wg)
 
 
@@ -242,7 +239,7 @@ The transcoding’s helped me to formulate the final outcome of this project. I 
 From Analogue media to a digitial tool. While listing to the lineair experience from the audio file you will see the development of media documenting war. The record begins with showing the Vietnam war media and finish with media from wars in 2020. The liniear narritive of the record creates an timeline of media from war, something that first made his appearance during the Vietnam war. The narritve is create by the relationships between the medias and the metadata of the images.
 
 #### Outcome Links
-[Website](https://ralphbruens.github.io/LAB/)
+[Website](https://merellois.github.io/archive/outcome/index.html)
 
 IN PROGRESS
 
