@@ -151,7 +151,7 @@ My aim with this transcoding was that I wanted to create a visual soundscape.
 I used Cinema 4D to create the moving objects.
 
 #### Results
-<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="45%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="45%">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="50%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="50%">
 
 [Cinema 4D Tryout 2.0 - Trees](https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be)
 [Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
@@ -252,6 +252,7 @@ My process for this project had a lot ups and downs. If I look back on my projec
 
 #### Art projects
 -  Broomberg and shanarn - *War Primer 2*
+
    [Archive of Modern Conflict - Photobooks and artist's books](https://archiveofmodernconflict.com)
   
   <img src="https://github.com/merellois/Archive/blob/master/IMD/war%20primer.jpg">
