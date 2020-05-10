@@ -121,7 +121,7 @@ Through the internet I searched for the different definitions of the terms in th
 
 #### Results
 <img src="https://github.com/merellois/Archive/blob/master/IMD/script.jpg">
-<img src="https://github.com/merellois/Archive/blob/master/IMD/script1.jpg width="99%"">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/script1.jpg" width="99%">
 
 ### Listening Excersise
 #### Description
