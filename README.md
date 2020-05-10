@@ -26,7 +26,7 @@
 ## Artefact
 *Good morning Vietnam* is a record that was recorded during the Vietnam war. It visualizes the different sides of the war. You experience through the sound American soldiers that are in combed and the civilians that are grieving over the grave of their love ones.  *Good morning Vietnam* guides you through the war, like you encounter it yourself.
 
- [<img src="https://github.com/merellois/Archive/blob/master/IMD/war.jpg" width="100%">]
+ <img src="https://github.com/merellois/Archive/blob/master/IMD/war.jpg" width="100%">
 
 
 ### Metadata
