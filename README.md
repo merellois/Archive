@@ -87,7 +87,6 @@ The Vietnam war was the first war that people could follow on their televisions.
 *On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* *See[[Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )*
 
 <img src="https://github.com/merellois/Archive/blob/master/IMD/gif.gif" width="50%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-2.gif" width="50%">
-
 [Student protest against the Vietnam war](https://www.youtube.com/watch?v=Lmd6CHah7Wg)
 
 
@@ -96,8 +95,9 @@ The role of the media changes because of the Vietnam war. From that moment on th
 
 - **News reports**
 
-[ABC Raw News Footage from 1969 covering the Vietnam War](https://www.youtube.com/watch?v=cvbEhBKUdTQ)
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-3.gif" width="50%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-4.gif" width="50%">
 
+[ABC Raw News Footage from 1969 covering the Vietnam War](https://www.youtube.com/watch?v=cvbEhBKUdTQ)
 [NBC News Special Report, January 31, 1968](https://www.youtube.com/watch?v=wA8n114eYXc)
 
 
@@ -115,27 +115,13 @@ With this transcoding, I wanted to understand better what de record visualizes.
 I listen to the record in the IISG in a small room full with different technology device’s. 
 From the record player, I recorded the songs on my computer. 
 
-   [<img src="IMD/a1.jpeg" width="40%">](#)
-   [<img src="IMD/a2.jpeg" width="40%">](#)
+<img src="https://github.com/merellois/Archive/blob/master/IMD/record_samen.jpg" width="50%">
 
 Through the internet I searched for the different definitions of the terms in the script. After this I would place this information in InDesign as the extra layer over the original script.
 
 #### Results
-[<img src="IMD/een.png" width="40%">](#)
-[<img src="IMD/twee.png" width="40%">](#)
-
-[<img src="IMD/drie.png" width="40%">](#)
-[<img src="IMD/vier.png" width="40%">](#)
-
-[<img src="IMD/vijf.png" width="40%">](#)
-[<img src="IMD/zes.png" width="40%">](#)
-
-[<img src="IMD/zeven.png" width="40%">](#)
-[<img src="IMD/acht.png" width="40%">](#)
-
-[<img src="IMD/negen.png" width="40%">](#)
-[<img src="IMD/tien.png" width="40%">](#)
-
+<img src="https://github.com/merellois/Archive/blob/master/IMD/script.jpg">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/script1.jpg">
 
 ### Listening Excersise
 #### Description
