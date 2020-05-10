@@ -136,7 +136,7 @@ I started with editing the recorded files in Premiere Pro. After that I wrote th
 <img src="https://github.com/merellois/Archive/blob/master/IMD/twee.png" width="50%">
 
 #### Results
-<img src="https://github.com/merellois/Archive/blob/master/IMD/video.png" width="50%>
+<img src="https://github.com/merellois/Archive/blob/master/IMD/video.png" width="50%">
 [Listening Excersise visualisation](https://youtu.be/sVrxxTUw4f8)
 
 ### Enviroment objects react on sound
@@ -150,9 +150,9 @@ My aim with this transcoding was that I wanted to create a visual soundscape.
 I used Cinema 4D to create the moving objects.
 
 #### Results
-<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="50%>
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="50%">
 [Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
-<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif width="50%">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="50%">
 [Cinema 4D Tryout 2.0 - Trees](https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be)
 
 ### Counter-reaction on record 
