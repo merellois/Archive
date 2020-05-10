@@ -45,7 +45,6 @@ In my research, I looked at the different sides of war. From the history, the to
 
 ### Vietnam War
 My research started with understanding what happened in the Vietnam War. One important resource was the script that was attached to the record. This script explains what and who you hear on the record. Through this I understood better what the meaning was behind the sound and what kind of story the maker of the record wanted to portray. I got a better idea of how live should have been during the war.
-
 *See [Script of the script](#script-of-the-script)*
 
 ### Visualization of war
@@ -152,8 +151,7 @@ My aim with this transcoding was that I wanted to create a visual soundscape.
 I used Cinema 4D to create the moving objects.
 
 #### Results
-<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="45%">
-<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="45%">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="45%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="45%">
 
 [Cinema 4D Tryout 2.0 - Trees](https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be)
 [Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
