@@ -38,8 +38,7 @@
 | **Medium** | Record
 | **Materials** | Polyvinyl chloride 
 | **Date** | 1972
-| <img src="https://github.com/merellois/Archive/blob/master/IMD/Good_morning_vietnam.jpg">
-<img src="https://github.com/merellois/Archive/blob/master/IMD/achter.jpg"> | On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
+| <img src="https://github.com/merellois/Archive/blob/master/IMD/Good_morning_vietnam.jpg"><img src="https://github.com/merellois/Archive/blob/master/IMD/achter.jpg"> | On the cover of the record you read that the record is recorded in Vietnam by Claude Johner. And that he was assisted by Janine Antione. Next to this you read that the record was produced by Folkways Records FD 5445. This information has a white sans serif typeface and is underlined by a white line. Under this information the title of the record is revealed, Good morning Vietnam. The title has a red serif typeface and the background is black. Below this you will recognize a face that is buried into the ground. The photo is in black and white. On the back of the record sleeve you read the record company’s name again, a description of the broadcast, a quote from Claude Johner himself and the table of content of the record with time of how long the tracks are. On the bottom, you will read the copyrights, the title of the record, who made it and that the cover is designed by Ronald Clyne. You also discover that in the record sleeve there is a script of the record. The title has a red serif typeface. The rest of the information has a black sans serif typeface. This information is positioned on the left side of the record and has a white background. The right side of the record is black. 
 
 ## Research
 In my research, I looked at the different sides of war. From the history, the tools to how the media of war has change over time. The Vietnam war was a crucial point in history, because from this point the world could follow what was happening in the war. They could react on it and express their opinion towards the politics. 
@@ -152,10 +151,10 @@ I used Cinema 4D to create the moving objects.
 
 #### Results
 <img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="50%">
-[Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
-
 <img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="50%">
+
 [Cinema 4D Tryout 2.0 - Trees](https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be)
+[Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
 
 ### Counter-reaction on record 
 #### Description
@@ -203,7 +202,7 @@ Not only through sound, but also poetry and imagery. To combine all the various 
 <img src="https://github.com/merellois/Archive/blob/master/IMD/website.png">
 
 #### Source Links
-<img src="https://github.com/merellois/Archive/blob/master/IMD/deleted_city_strabic.jpg">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/deleted_city_strabic.jpg" width="50%">
 - [The Deleted City 2.0](https://vimeo.com/280524012)
 
 ### Website as instrument
@@ -263,7 +262,7 @@ My process for this project had a lot ups and downs. If I look back on my projec
 
 - [Foundland](http://foundland.info/GROUNDPLAN-DRAWINGS) - *Groundplan drawings*
 
-  <img src="https://github.com/merellois/Archive/blob/master/IMD/foundland_groundplan-drawings4_7_1340_c.jpg">
+  <img src="https://github.com/merellois/Archive/blob/master/IMD/foundland_groundplan-drawings4_7_1340_c.jpg" width="50%">
 
 - Sissel Tolaas - *The Stench of World War I* 
 
