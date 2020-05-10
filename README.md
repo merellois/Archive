@@ -45,6 +45,7 @@ In my research, I looked at the different sides of war. From the history, the to
 
 ### Vietnam War
 My research started with understanding what happened in the Vietnam War. One important resource was the script that was attached to the record. This script explains what and who you hear on the record. Through this I understood better what the meaning was behind the sound and what kind of story the maker of the record wanted to portray. I got a better idea of how live should have been during the war.
+
 *See [Script of the script](#script-of-the-script)*
 
 ### Visualization of war
@@ -68,7 +69,7 @@ Because the record is from 1972, I wanted to research about war now a days. Espe
 
 <img src="https://github.com/merellois/Archive/blob/master/IMD/game.jpg">
 
-- **["Playing Metal Gear Solid V : The Phantom Pain"]**(https://pca.st/19vld8tq)
+- **"Playing Metal Gear Solid V : The Phantom Pain"** (https://pca.st/19vld8tq)
 
 
 - **[Francis Alÿs - Childern's game]**(https://www.eyefilm.nl/en/exhibition/francis-alÿs)
@@ -83,7 +84,9 @@ The Vietnam war was the first war that people could follow on their televisions.
 <img src="https://github.com/merellois/Archive/blob/master/IMD/life.jpg">
   
 - **Student protest**
-*On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* * See [Counter-reaction on record ](#counter-reaction-on-record))*
+*On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* 
+
+* See [Counter-reaction on record ](#counter-reaction-on-record))*
 
 <img src="https://github.com/merellois/Archive/blob/master/IMD/gif.gif" width="50%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-2.gif" width="50%">
 [Student protest against the Vietnam war](https://www.youtube.com/watch?v=Lmd6CHah7Wg)
