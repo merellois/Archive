@@ -5,18 +5,18 @@
 1. [Artefact](#artefact)
     - [Metadata](#metadata)
 2. [Research](#research)
-    1. [Vietnam War](#vietnam-War)
-    2. [Visualization of war](#visualization-of-war)
-    3. [Contemporary war](#contemporary-war)
-    4. [The counter reaction of the Vietnam War](#the-counter-reaction-of-the-Vietnam-War)
+    + [Vietnam War](#vietnam-War)
+    + [Visualization of war](#visualization-of-war)
+    + [Contemporary war](#contemporary-war)
+    + [The counter reaction of the Vietnam War](#the-counter-reaction-of-the-Vietnam-War)
 3. [Transcoding](#transcoding)
-    1. [Script of the script](#script-of-the-script)
-    2. [Listening Excersise](#listening-Excersise)
-    3. [Enviroment objects react on sound](#enviroment-objects-react-on-sound)
-    4. [Counter-reaction on record ](#counter-reaction-on-record)
-    5. [Photo serie of Vietnam video footage](#photo-serie-of-Vietnam-video-footage)
-    6. [Sound Library](#sound-Library)
-    7. [Website as instrument](#website-as-instrument)    
+    + [Script of the script](#script-of-the-script)
+    + [Listening Excersise](#listening-Excersise)
+    + [Enviroment objects react on sound](#enviroment-objects-react-on-sound)
+    + [Counter-reaction on record ](#counter-reaction-on-record)
+    + [Photo serie of Vietnam video footage](#photo-serie-of-Vietnam-video-footage)
+    + [Sound Library](#sound-Library)
+    + [Website as instrument](#website-as-instrument)    
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
     - [Outcome Links](#outcome-Links)
@@ -45,7 +45,7 @@ In my research, I looked at the different sides of war. From the history, the to
 
 ### Vietnam War
 My research started with understanding what happened in the Vietnam War. One important resource was the script that was attached to the record. This script explains what and who you hear on the record. Through this I understood better what the meaning was behind the sound and what kind of story the maker of the record wanted to portray. I got a better idea of how live should have been during the war.
-*See [Transcoding No. 1](#transcoding-no-1)*
+*See [Script of the script](#script-of-the-script)*
 
 ### Visualization of war
 To find out more about Vietnam War, I looked at different visualization of that war. Next to that I studied the functions of a war and the reason why people want to start a war.
@@ -83,7 +83,7 @@ The Vietnam war was the first war that people could follow on their televisions.
 <img src="https://github.com/merellois/Archive/blob/master/IMD/life.jpg">
   
 - **Student protest**
-*On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* *See[[Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )*
+*On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* * See [Counter-reaction on record ](#counter-reaction-on-record))*
 
 <img src="https://github.com/merellois/Archive/blob/master/IMD/gif.gif" width="50%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-2.gif" width="50%">
 [Student protest against the Vietnam war](https://www.youtube.com/watch?v=Lmd6CHah7Wg)
@@ -150,8 +150,8 @@ My aim with this transcoding was that I wanted to create a visual soundscape.
 I used Cinema 4D to create the moving objects.
 
 #### Results
-<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="50%">
-<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="50%">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="45%">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="45%">
 
 [Cinema 4D Tryout 2.0 - Trees](https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be)
 [Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
@@ -262,7 +262,7 @@ My process for this project had a lot ups and downs. If I look back on my projec
 
 - [Foundland](http://foundland.info/GROUNDPLAN-DRAWINGS) - *Groundplan drawings*
 
-  <img src="https://github.com/merellois/Archive/blob/master/IMD/foundland_groundplan-drawings4_7_1340_c.jpg" width="50%">
+  <img src="https://github.com/merellois/Archive/blob/master/IMD/foundland.jpg">
 
 - Sissel Tolaas - *The Stench of World War I* 
 
