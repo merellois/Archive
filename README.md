@@ -86,7 +86,7 @@ The Vietnam war was the first war that people could follow on their televisions.
 - **Student protest**
 *On May 4, 1970, after days of unrest over America's invasion of Cambodia during the Vietnam War, student protesters at Kent State University clashed with Ohio National Guardsmen. The guardsmen opened fire, killing four students and wounding nine others. It was a pivotal moment in America's anti-war movement.* *See[[Transcoding : Counter-reaction on record ](#Transcoding : Counter-reaction on record )*
 
-<img src="https://github.com/merellois/Archive/blob/master/IMD/gif.gif" width="48.5%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-2.gif" width="50%">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif.gif" width="50%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-2.gif" width="50%">
 [Student protest against the Vietnam war](https://www.youtube.com/watch?v=Lmd6CHah7Wg)
 
 
@@ -121,7 +121,7 @@ Through the internet I searched for the different definitions of the terms in th
 
 #### Results
 <img src="https://github.com/merellois/Archive/blob/master/IMD/script.jpg">
-<img src="https://github.com/merellois/Archive/blob/master/IMD/script1.jpg">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/script1.jpg width="99%"">
 
 ### Listening Excersise
 #### Description
