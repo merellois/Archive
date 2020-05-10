@@ -95,7 +95,7 @@ The role of the media changes because of the Vietnam war. From that moment on th
 
 - **News reports**
 
-<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-3.gif" width="45%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-4.gif" width="50%">
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-3.gif" width="48%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-4.gif" width="50%">
 
 [ABC Raw News Footage from 1969 covering the Vietnam War](https://www.youtube.com/watch?v=cvbEhBKUdTQ)
 [NBC News Special Report, January 31, 1968](https://www.youtube.com/watch?v=wA8n114eYXc)
