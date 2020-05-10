@@ -98,6 +98,7 @@ The role of the media changes because of the Vietnam war. From that moment on th
 <img src="https://github.com/merellois/Archive/blob/master/IMD/gif-3.gif" width="46%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-4.gif" width="50%">
 
 [ABC Raw News Footage from 1969 covering the Vietnam War](https://www.youtube.com/watch?v=cvbEhBKUdTQ)
+
 [NBC News Special Report, January 31, 1968](https://www.youtube.com/watch?v=wA8n114eYXc)
 
 
@@ -152,6 +153,7 @@ I used Cinema 4D to create the moving objects.
 #### Results
 <img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="50%">
 [Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
+
 <img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="50%">
 [Cinema 4D Tryout 2.0 - Trees](https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be)
 
@@ -179,8 +181,8 @@ My aim with this transcoding was that I wanted to construct an archive of differ
 I search on YouTube for news reports that were made during the Vietnam War. I would stop the video and make a screenshot of it the still. I organized these photos in categorise in Finder. After this I established the categorise together in InDesign. 
 
 #### Results
-[<img src="IMD/reporters_Pagina_1.jpg" width="40%">](#)
-[<img src="IMD/reporters_Pagina_2.jpg" width="40%">](#)
+<img src="https://github.com/merellois/Archive/blob/master/IMD/reporter.jpg">
+
 
 ### Sound Library 
 #### Description
@@ -193,14 +195,15 @@ Not only through sound, but also poetry and imagery. To combine all the various 
 #### Methods
 - google docs
 
-[<img src="IMD/twaalf.png" width="100%">](#)
+<img src="https://github.com/merellois/Archive/blob/master/IMD/twaalf.png">
 
 - html / ccs
 
 #### Results
-[<img src="IMD/website.png" width="50%">](#)
+<img src="https://github.com/merellois/Archive/blob/master/IMD/website.png">
 
 #### Source Links
+<img src="https://github.com/merellois/Archive/blob/master/IMD/deleted_city_strabic.jpg">
 - [The Deleted City 2.0](https://vimeo.com/280524012)
 
 ### Website as instrument
@@ -214,7 +217,7 @@ I tried to build a website as instrument, so that you could compose your own mus
 - html / css
 
 #### Results
-[Website as an Instrument](https://youtu.be/lrLUtJWRRbA)
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-8.gif">
 
 #### Source Links
 - [Pd/GEM -live coding](https://www.youtube.com/watch?v=kua7TZtroY4)
@@ -238,10 +241,7 @@ My process for this project had a lot ups and downs. If I look back on my projec
 
 ### Bibliography
 
-- [Foundland](http://foundland.info/GROUNDPLAN-DRAWINGS) - *Groundplan drawings*
-
-- Sissel Tolaas - *The Stench of World War I* 
-
+#### Articles
 - [The New Yorker](https://www.newyorker.com/tech/annals-of-technology/the-video-game-invasion-of-iraq) - *The Video-Game Invasion of Iraq*
 
 - [NPR]( https://www.npr.org/sections/goatsandsoda/2018/06/28/621112394/the-rules-of-war-are-being-broken-what-exactly-are-they?t=1583664742148&t=1588519337731) - *The 'Rules Of War' Are Being Broken. What Exactly Are They?*
@@ -250,19 +250,29 @@ My process for this project had a lot ups and downs. If I look back on my projec
 
 - [BBC](https://www.bbc.com/news/magazine-20400030) - *What does war sound like now?*
 
+
+#### Art projects
 -  Broomberg and shanarn - *War Primer 2*
-  
    [Archive of Modern Conflict - Photobooks and artist's books](https://archiveofmodernconflict.com)
   
-  [<img src="IMD/warprimer.jpg" width="40%">](#)
-  
-  [<img src="IMD/BC_WP2_8-min.jpg" width="40%">](#)
-
-- [Stefan Schafer](http://stefanschafer.net) - *Death and Digital*
+  <img src="https://github.com/merellois/Archive/blob/master/IMD/war%20primer.jpg">
 
 - [Afghan war carpets](https://www.artsy.net/article/artsy-editorial-lessons-afghan-women-weave-modern-war-ancient-tradition) - *Lessons from the Afghan Women Who Weave Modern War into an Ancient Tradition* 
 
+ <img src="https://github.com/merellois/Archive/blob/master/IMD/tapijt.jpg">
+
+- [Foundland](http://foundland.info/GROUNDPLAN-DRAWINGS) - *Groundplan drawings*
+
+  <img src="https://github.com/merellois/Archive/blob/master/IMD/foundland_groundplan-drawings4_7_1340_c.jpg">
+
+- Sissel Tolaas - *The Stench of World War I* 
+
+- [Stefan Schafer](http://stefanschafer.net) - *Death and Digital*
+
+#### Extra
 - [Google maps](https://www.google.com/maps/d/viewer?ie=UTF8&hl=en&msa=0&ll=17.308687952170636%2C37.265625&spn=144.009758%2C358.59375&z=2&source=embed&mid=1o9hyafe5ZQdLpBEhS_vcB0ao988) - *Global Conflict Map by Region*
+
+<img src="https://github.com/merellois/Archive/blob/master/IMD/map.png">
 
 
 
