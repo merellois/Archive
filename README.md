@@ -133,9 +133,10 @@ With this transcoding, my goal was to see how one sound can create different vis
 #### Methods
 I started with editing the recorded files in Premiere Pro. After that I wrote the listing excises in Word and send it to different people through We transfer. After they were finished with listing and reacting on the sound file they would send it back to me. In Premiere Pro, I put the sound file and the pictures together. And exported this outcome to mp4 format.
 
-   [<img src="IMD/elf.png" width="50%">](#)
+<img src="https://github.com/merellois/Archive/blob/master/IMD/twee.png" width="50%">
 
 #### Results
+<img src="https://github.com/merellois/Archive/blob/master/IMD/video.png">
 [Listening Excersise visualisation](https://youtu.be/sVrxxTUw4f8)
 
 ### Enviroment objects react on sound
@@ -149,8 +150,9 @@ My aim with this transcoding was that I wanted to create a visual soundscape.
 I used Cinema 4D to create the moving objects.
 
 #### Results
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif">
 [Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
-
+<img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif">
 [Cinema 4D Tryout 2.0 - Trees](https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be)
 
 ### Counter-reaction on record 
