@@ -69,9 +69,9 @@ Because the record is from 1972, I wanted to research about war now a days. Espe
 
 <img src="https://github.com/merellois/Archive/blob/master/IMD/game.jpg">
 
-- [**"Playing Metal Gear Solid V : The Phantom Pain"**](https://pca.st/19vld8tq)
+- [**Playing Metal Gear Solid V : The Phantom Pain**](https://pca.st/19vld8tq)
 
-- **[Francis Alÿs - Childern's game]**(https://www.eyefilm.nl/en/exhibition/francis-alÿs)
+- [**Francis Alÿs - Childern's game**](https://www.eyefilm.nl/en/exhibition/francis-alÿs)
 *Alÿs films in cities and villages, but also in places dominated by conflict and tension – such as Afghanistan or a Yazidi refugee camp in Iraq. Alÿs captures everything with a humane eye and mild amazement. The games often echo the rituals, symbols, customs and insights of each particular society he looks at through his lens.*
 
 ### The counter reaction of the Vietnam War
