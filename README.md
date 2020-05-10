@@ -154,6 +154,7 @@ I used Cinema 4D to create the moving objects.
 <img src="https://github.com/merellois/Archive/blob/master/IMD/gif-5.gif" width="50%"><img src="https://github.com/merellois/Archive/blob/master/IMD/gif-7.gif" width="50%">
 
 [Cinema 4D Tryout 2.0 - Trees](https://www.youtube.com/watch?v=JOOtaGp43PI&feature=youtu.be)
+
 [Cinema 4D tryout 1.0 - Water](https://www.youtube.com/watch?v=rSOiuT7APyk&feature=youtu.be)
 
 ### Counter-reaction on record 
@@ -182,7 +183,6 @@ I search on YouTube for news reports that were made during the Vietnam War. I wo
 #### Results
 <img src="https://github.com/merellois/Archive/blob/master/IMD/reporter.jpg">
 
-
 ### Sound Library 
 #### Description
 With this experiment I want to create a library that archives different sounds from war and the counter-reactions on war. 
@@ -193,16 +193,17 @@ Not only through sound, but also poetry and imagery. To combine all the various 
 
 #### Methods
 - google docs
+- html / ccs
 
 <img src="https://github.com/merellois/Archive/blob/master/IMD/twaalf.png">
 
-- html / ccs
 
 #### Results
 <img src="https://github.com/merellois/Archive/blob/master/IMD/website.png">
 
 #### Source Links
 <img src="https://github.com/merellois/Archive/blob/master/IMD/deleted_city_strabic.jpg" width="50%">
+
 - [The Deleted City 2.0](https://vimeo.com/280524012)
 
 ### Website as instrument
