@@ -1,5 +1,5 @@
 [<img src="https://github.com/merellois/Archive/blob/master/IMD/header.jpg" width="100%">](#)
-# The abstract warmachine and its viewer 
+# The Abstract Warmachine and its Viewer 
 
 ### Table of Contents
 1. [Artefact](#artefact)
