@@ -1,5 +1,5 @@
 [<img src="https://github.com/merellois/Archive/blob/master/IMD/header.jpg" width="100%">](#)
-# THE MEDIA OF WAR
+# The Abstract Warmachine and its Viewer 
 
 ### Table of Contents
 1. [Artefact](#artefact)
@@ -231,9 +231,7 @@ The transcoding’s helped me to formulate the final outcome of this project. I 
 From Analogue media to a digitial tool. While listing to the lineair experience from the audio file you will see the development of media documenting war. The record begins with showing the Vietnam war media and finish with media from wars in 2020. The liniear narritive of the record creates an timeline of media from war, something that first made his appearance during the Vietnam war. The narritve is create by the relationships between the medias and the metadata of the images.
 
 #### Outcome Links
-[Website](https://merellois.github.io/archive/outcome/index.html)
-
-IN PROGRESS
+[Website](https://merellois.github.io/Archive/)
 
 ## Conclusion 
 My process for this project had a lot ups and downs. If I look back on my project, I’s see that I struggled a lot. It took me a while to understand what I wanted to show with my final outcome and how I wanted to visualize it. This project taught me a lot. It showed me how to approach an object in different ways and how to work with this. It also made me reflect on my working process. I discovered that I find it hard to translate my process into a final outcome and to make decisions. For a next project, I need to work on the way I plan my process and take this project with me as a learning experience.
